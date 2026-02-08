@@ -1,0 +1,5349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "KCAM001",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM001",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.448625,
+          38.990931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM002",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM002",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542016,
+          39.153462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM003",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM003",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.532336,
+          39.124642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM004",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM004",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529771,
+          39.180998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM005",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM005",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54346,
+          39.129917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM020",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM020",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.569731,
+          38.908166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM021",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM021",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.571382,
+          38.89491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM024",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM024",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.527593,
+          39.189323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM025",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM025",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.515299,
+          39.18481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM027",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM027",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556265,
+          39.200015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM028",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM028",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522474,
+          39.174683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM029",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM029",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.516881,
+          39.168512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM030",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM030",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.515487,
+          39.163386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM031",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM031",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542656,
+          39.159117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM032",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM032",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51146,
+          39.158657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM086",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM086",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5364,
+          39.1866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM090",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM090",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59127,
+          39.281918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM091",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM091",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.607302,
+          39.306505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM092",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM092",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.427714,
+          38.957405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM102",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM102",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567883,
+          38.923876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM103",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM103",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566335,
+          38.923848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM109",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM109",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.544608,
+          39.206545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM110",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM110",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.500362,
+          39.145994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM111",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM111",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45568,
+          39.04152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM124",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM124",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522207,
+          39.139356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM125",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM125",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.537258,
+          39.113145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM126",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM126",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4923,
+          39.1311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM127",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM127",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.454974,
+          39.106816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM129",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM129",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.649249,
+          39.153863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM147",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM147",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.622309,
+          39.293638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM159",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM159",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.457562,
+          39.084873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM161",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM161",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.459917,
+          39.051762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM162",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM162",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.526017,
+          39.177945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM163",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM163",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.457299,
+          39.041558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM169",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM169",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566067,
+          38.933804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM170",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM170",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.545698,
+          39.192841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM171",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM171",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.443168,
+          38.915799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM173",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM173",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546557,
+          39.169308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM174",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM174",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.553631,
+          39.071463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM175",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM175",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573387,
+          39.217514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM176",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM176",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59241,
+          39.278566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM177",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM177",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56889,
+          39.006534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM178",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM178",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.586329,
+          39.264149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM179",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM179",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.596444,
+          39.291462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM180",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM180",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.543163,
+          39.191366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM181",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM181",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.503508,
+          39.15012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM183",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM183",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.557408,
+          39.159143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM185",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM185",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.503649,
+          39.157053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM186",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM186",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.612772,
+          39.155717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM187",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM187",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.418297,
+          38.917994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM189",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM189",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566542,
+          39.158408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM190",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM190",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.575017,
+          38.870458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM191",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM191",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43307,
+          38.92771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM192",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM192",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.553342,
+          39.176283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM195",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM195",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.434619,
+          38.970714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KCAM206",
+      "properties": {
+        "state": "DE",
+        "id": "KCAM206",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.479125,
+          39.122096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM001",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM001",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60295,
+          39.700253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM002",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM002",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651032,
+          39.672962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM005",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM005",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.654481,
+          39.683682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM006",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM006",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675288,
+          39.671952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM008",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM008",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.615329,
+          39.696957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM015",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM015",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.702943,
+          39.750525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM016",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM016",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.654559,
+          39.635502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM017",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM017",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.741832,
+          39.605802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM018",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM018",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.649024,
+          39.499757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM019",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM019",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.617641,
+          39.653743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM022",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM022",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.661988,
+          39.406927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM023",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM023",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715758,
+          39.608383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM034",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM034",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.653104,
+          39.661268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM035",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM035",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.670852,
+          39.668527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM036",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM036",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680185,
+          39.675123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM037",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM037",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694585,
+          39.679189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM039",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM039",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648171,
+          39.712187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM040",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM040",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651218,
+          39.697116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM041",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM041",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.654988,
+          39.688998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM042",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM042",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681961,
+          39.685305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM043",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM043",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.669314,
+          39.693244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM046",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM046",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.655407,
+          39.676947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM048",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM048",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.544773,
+          39.828616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM049",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM049",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.549867,
+          39.80937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM050",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM050",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5464,
+          39.785073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM051",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM051",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51529,
+          39.808416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM052",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM052",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.501276,
+          39.824597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM053",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM053",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609044,
+          39.714619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM054",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM054",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.521317,
+          39.735348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM055",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM055",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542489,
+          39.718569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM056",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM056",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.499402,
+          39.754414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM057",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM057",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4511,
+          39.8064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM058",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM058",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.453729,
+          39.815739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM059",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM059",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.543028,
+          39.766975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM060",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM060",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5766,
+          39.773272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM062",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM062",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.592228,
+          39.772637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM063",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM063",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5366,
+          39.7439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM064",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM064",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.503084,
+          39.769399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM065",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM065",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.477881,
+          39.785058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM066",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM066",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.459907,
+          39.800926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM067",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM067",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.459948,
+          39.79334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM068",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM068",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.483867,
+          39.771138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM069",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM069",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7368,
+          39.684499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM070",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM070",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.753659,
+          39.683009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM071",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM071",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.751795,
+          39.65851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM072",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM072",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.776058,
+          39.665543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM073",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM073",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604381,
+          39.665042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM074",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM074",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.581047,
+          39.690091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM075",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM075",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.558508,
+          39.716804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM076",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM076",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604239,
+          39.758771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM077",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM077",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.616565,
+          39.725726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM078",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM078",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5061,
+          39.7801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM080",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM080",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4795,
+          39.8027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM087",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM087",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.619947,
+          39.737573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM088",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM088",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.587316,
+          39.773084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM089",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM089",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6647,
+          39.3855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM096",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM096",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641291,
+          39.621247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM097",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM097",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6491,
+          39.5391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM100",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM100",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711291,
+          39.511201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM104",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM104",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.737348,
+          39.560007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM105",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM105",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.736606,
+          39.52925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM106",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM106",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662451,
+          39.580163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM107",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM107",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6577,
+          39.4221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM108",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM108",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6755,
+          39.4547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM113",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM113",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.610011,
+          39.747774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM114",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM114",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.763514,
+          39.644818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM116",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM116",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6906,
+          39.6632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM117",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM117",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6011,
+          39.6984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM118",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM118",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.585859,
+          39.71306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM121",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM121",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.728758,
+          39.450239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM122",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM122",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76395,
+          39.41952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM123",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM123",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6251,
+          39.3299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM137",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM137",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6072,
+          39.7061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM138",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM138",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556882,
+          39.748306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM139",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM139",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.784611,
+          39.657912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM140",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM140",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74351,
+          39.636049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM141",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM141",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.746941,
+          39.440663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM142",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM142",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62198,
+          39.324946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM149",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM149",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715411,
+          39.774897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM150",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM150",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.599359,
+          39.693859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM152",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM152",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.762507,
+          39.677664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM153",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM153",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55669,
+          39.73971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM154",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM154",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.562413,
+          39.739422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM156",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM156",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65703,
+          39.675909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM157",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM157",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.654869,
+          39.67422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM158",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM158",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657903,
+          39.683873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM159",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM159",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.576952,
+          39.695063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM160",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM160",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.639352,
+          39.663148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM161",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM161",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.549725,
+          39.813339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM162",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM162",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657659,
+          39.723828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM163",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM163",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.649881,
+          39.648724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM164",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM164",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67508,
+          39.71386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM165",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM165",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.753155,
+          39.44591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM166",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM166",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.729861,
+          39.642422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM167",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM167",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554682,
+          39.75109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM168",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM168",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.548559,
+          39.739313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM169",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM169",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601223,
+          39.705713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM170",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM170",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.692754,
+          39.506322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM171",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM171",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6796,
+          39.524414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM172",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM172",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651081,
+          39.528122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM173",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM173",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.733076,
+          39.473344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM174",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM174",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.721753,
+          39.484097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM175",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM175",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.650386,
+          39.676151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM176",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM176",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694705,
+          39.618743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM177",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM177",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.660608,
+          39.456367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM178",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM178",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735768,
+          39.661437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM179",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM179",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552533,
+          39.73282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM180",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM180",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55623,
+          39.728324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM181",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM181",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.684539,
+          39.503948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM182",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM182",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.677833,
+          39.583719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM183",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM183",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.752368,
+          39.683092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM184",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM184",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.684719,
+          39.585318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM185",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM185",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.744309,
+          39.683737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM186",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM186",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.448135,
+          39.807542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM187",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM187",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.447187,
+          39.80414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM188",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM188",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.699159,
+          39.593346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM189",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM189",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.740172,
+          39.587354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM190",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM190",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735982,
+          39.686592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM191",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM191",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.716701,
+          39.44968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM192",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM192",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.661924,
+          39.457241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM194",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM194",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.697575,
+          39.648611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM195",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM195",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657589,
+          39.579432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM196",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM196",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.575476,
+          39.73401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM197",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM197",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.562526,
+          39.741866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM198",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM198",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55528,
+          39.742087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM199",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM199",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.559707,
+          39.743893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM201",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM201",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.551519,
+          39.738367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM203",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM203",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.701938,
+          39.450289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM204",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM204",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573359,
+          39.746399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM205",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM205",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552087,
+          39.748576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM206",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM206",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542321,
+          39.761325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM207",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM207",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.540833,
+          39.752214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM208",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM208",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573084,
+          39.749246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM209",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM209",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.555917,
+          39.751672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM210",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM210",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709141,
+          39.698188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM211",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM211",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579396,
+          39.664376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM212",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM212",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.544014,
+          39.749788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM213",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM213",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.544369,
+          39.745383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM214",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM214",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546949,
+          39.745269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM215",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM215",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.553424,
+          39.752204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM217",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM217",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556083,
+          39.733073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM218",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM218",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.547643,
+          39.753354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM219",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM219",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.540739,
+          39.733508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM221",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM221",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546675,
+          39.747307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM222",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM222",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.574865,
+          39.760041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM223",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM223",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.561805,
+          39.754062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM224",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM224",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.587055,
+          39.751993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM225",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM225",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.588024,
+          39.769729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM226",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM226",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.589332,
+          39.739103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM227",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM227",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.553477,
+          39.761706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM228",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM228",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.626188,
+          39.73198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM229",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM229",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.622557,
+          39.735854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM230",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM230",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.622706,
+          39.738092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM236",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM236",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.589723,
+          39.749181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM243",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM243",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.773317,
+          39.674874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM244",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM244",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.774218,
+          39.676187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM247",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM247",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522722,
+          39.800381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM249",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM249",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64472,
+          39.500819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM253",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM253",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.749543,
+          39.651895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM255",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM255",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594744,
+          39.573028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM256",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM256",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.629247,
+          39.580259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM258",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM258",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.589652,
+          39.702866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM263",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM263",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.717387,
+          39.523074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM264",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM264",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.745639,
+          39.438453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM266",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM266",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5546,
+          39.718669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM268",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM268",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.677278,
+          39.502574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM269",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM269",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.658643,
+          39.71503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM270",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM270",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657265,
+          39.714186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM271",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM271",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.671283,
+          39.773049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM273",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM273",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.712328,
+          39.435458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM274",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM274",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.769146,
+          39.605024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM275",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM275",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.649275,
+          39.675465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM276",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM276",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.684698,
+          39.707134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM281",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM281",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665774,
+          39.731137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM282",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM282",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666647,
+          39.7311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM283",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM283",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.617779,
+          39.664945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM285",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM285",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542754,
+          39.730211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM292",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM292",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556575,
+          39.687678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM295",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM295",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.676899,
+          39.777358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM302",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM302",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.676752,
+          39.667437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM304",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM304",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.736077,
+          39.678243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM305",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM305",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.664247,
+          39.662379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM306",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM306",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.719921,
+          39.665071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM307",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM307",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.786305,
+          39.638805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM312",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM312",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573548,
+          39.715543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM314",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM314",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.640483,
+          39.68869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NCAM321",
+      "properties": {
+        "state": "DE",
+        "id": "NCAM321",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6149,
+          39.315847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PCAM4061",
+      "properties": {
+        "state": "DE",
+        "id": "PCAM4061",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06302,
+          38.60193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PCAM4461",
+      "properties": {
+        "state": "DE",
+        "id": "PCAM4461",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.329811,
+          38.591788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PCAM8961",
+      "properties": {
+        "state": "DE",
+        "id": "PCAM8961",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74594,
+          39.64673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM001",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM001",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.052019,
+          38.452241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM002",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM002",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.059042,
+          38.538401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM003",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM003",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.173495,
+          38.748216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM004",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM004",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.131553,
+          38.550665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM009",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM009",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.075627,
+          38.697707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM010",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM010",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.101443,
+          38.71252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM011",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM011",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.133573,
+          38.731836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM012",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM012",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153419,
+          38.745057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM013",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM013",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.071786,
+          38.680499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM014",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM014",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.120926,
+          38.721363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM082",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM082",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.396088,
+          38.681511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM083",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM083",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609041,
+          38.642281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM084",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM084",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.295312,
+          38.585411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM085",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM085",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.27834,
+          38.566357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM093",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM093",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.091115,
+          38.544507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM094",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM094",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.400978,
+          38.698504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM095",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM095",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59086,
+          38.723254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM098",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM098",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0658,
+          38.6154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM099",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM099",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.062,
+          38.6015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM101",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM101",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.115791,
+          38.470154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM112",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM112",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594197,
+          38.66103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM130",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM130",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594614,
+          38.652834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM133",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM133",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2837,
+          38.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM135",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM135",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.096618,
+          38.71358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM143",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM143",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.237918,
+          38.54807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM144",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM144",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.143136,
+          38.738121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM146",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM146",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.051941,
+          38.465266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM148",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM148",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.388098,
+          38.891291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM151",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM151",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.243198,
+          38.546506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM155",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM155",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3857,
+          38.671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM160",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM160",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.245407,
+          38.549164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM161",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM161",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.244138,
+          38.855187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM162",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM162",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.272419,
+          38.804267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM163",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM163",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.583963,
+          38.806135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM164",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM164",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.439703,
+          38.869326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM165",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM165",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.257364,
+          38.541618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM166",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM166",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.439001,
+          38.806413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM168",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM168",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.412813,
+          38.926072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM169",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM169",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06355,
+          38.607766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM170",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM170",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.063883,
+          38.608814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM174",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM174",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.285423,
+          38.725011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM175",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM175",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.138921,
+          38.727181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM176",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM176",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.136095,
+          38.729573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM177",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM177",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.142638,
+          38.723641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM178",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM178",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.368528,
+          38.699042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM179",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM179",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.291297,
+          38.591743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM180",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM180",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.291938,
+          38.591927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM181",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM181",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.194284,
+          38.635682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM182",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM182",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.150068,
+          38.751993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM183",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM183",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.34265,
+          38.706419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM184",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM184",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.424324,
+          38.739088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM187",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM187",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.176098,
+          38.747328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM188",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM188",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556258,
+          38.554928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM189",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM189",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.563041,
+          38.570306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM190",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM190",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233983,
+          38.463278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM191",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM191",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.557932,
+          38.455888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM192",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM192",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18322,
+          38.67743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM193",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM193",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202328,
+          38.614379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM194",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM194",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.169262,
+          38.699952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM195",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM195",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.196379,
+          38.626692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM196",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM196",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.151335,
+          38.714494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM198",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM198",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.188861,
+          38.668336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM199",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM199",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.086658,
+          38.70535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM200",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM200",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.075185,
+          38.694367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM201",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM201",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.318478,
+          38.599962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM202",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM202",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.071248,
+          38.456103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM203",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM203",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.074529,
+          38.691899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM204",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM204",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.060266,
+          38.55559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM205",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM205",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.282386,
+          38.602748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM206",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM206",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.350038,
+          38.633555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM207",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM207",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.335116,
+          38.618322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM208",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM208",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.131065,
+          38.729788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM209",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM209",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233578,
+          38.459058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM210",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM210",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233019,
+          38.456175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM211",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM211",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.205792,
+          38.739222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM213",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM213",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139098,
+          38.768018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM214",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM214",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.416895,
+          38.916672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM215",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM215",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.585208,
+          38.806175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM222",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM222",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.318832,
+          38.787832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM226",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM226",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.186202,
+          38.74392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM227",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM227",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.249307,
+          38.553804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM229",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM229",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.054624,
+          38.509162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM230",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM230",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.055085,
+          38.515475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM231",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM231",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.054976,
+          38.520496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM233",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM233",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.148264,
+          38.755437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM234",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM234",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43994,
+          38.90162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM235",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM235",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.226621,
+          38.77529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCAM236",
+      "properties": {
+        "state": "DE",
+        "id": "SCAM236",
+        "source": "DelDOT TMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.311759,
+          38.581861
+        ]
+      }
+    }
+  ]
+}
