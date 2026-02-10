@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "generated_at_utc": "2026-02-10T02:23:36Z",
   "features": [
     {
       "type": "Feature",
@@ -7,7 +8,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM001",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ MILFORD NECK ROAD (NORTH OFF)",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM001.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +29,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM002",
-        "source": "DelDOT TMC"
+        "name": "W NORTH ST @ WEST DOVER CONNECTOR",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM002.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +50,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM003",
-        "source": "DelDOT TMC"
+        "name": "US 13 SB @ WEST DOVER CONNECTOR",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM003.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +71,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM004",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ RD 88",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM004.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +92,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM005",
-        "source": "DelDOT TMC"
+        "name": "NEW BURTON RD S @ WEST DOVER CONNECTOR",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM005.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +113,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM020",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ HARRINGTON FAIR RD - HARRINGTON",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM020.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +134,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM021",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ RD 315 (TOWER HILL RD)",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM021.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +155,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM024",
-        "source": "DelDOT TMC"
+        "name": "LEIPSIC RD @ PLAZA DR",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM024.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +176,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM025",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ MAIN TOLL PLAZA",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM025.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +197,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM027",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ SCARBOROUGH RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM027.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +218,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM028",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ TOWNSEND BLVD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM028.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +239,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM029",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ WHITE OAK RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM029.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +260,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM030",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DIVISION ST",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM030.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +281,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM031",
-        "source": "DelDOT TMC"
+        "name": "DE 8 @ SAULSBURY RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM031.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +302,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM032",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ BAY RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM032.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +323,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM086",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DOVER DOWNS (ENT)",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM086.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +344,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM090",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ TOLL RAMP E (S. SMYRNA)",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM090.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +365,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM091",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 300",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM091.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +386,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM092",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ THOMPSONVILLE RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM092.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +407,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM102",
-        "source": "DelDOT TMC"
+        "name": "US 13 SB @ DE 14",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM102.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +428,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM103",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 14",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM103.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +449,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM109",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ SCARBOROUGH RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM109.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +470,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM110",
-        "source": "DelDOT TMC"
+        "name": "BAY RD @ PUNCHEON RUN",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM110.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -375,7 +491,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM111",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ BOWERS BEACH RD (RD18)",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM111.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +512,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM124",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ PUNCHEON RUN RAMP",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM124.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +533,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM125",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 10",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM125.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +554,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM126",
-        "source": "DelDOT TMC"
+        "name": "BAY RD @ DE 10",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM126.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +575,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM127",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 9 INTERCHANGE",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM127.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +596,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM129",
-        "source": "DelDOT TMC"
+        "name": "DE 8 @ DE 44",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM129.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +617,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM147",
-        "source": "DelDOT TMC"
+        "name": "DE 300 @ CARTER RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM147.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -487,7 +638,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM159",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ TRAP SHOOTERS RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM159.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +659,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM161",
-        "source": "DelDOT TMC"
+        "name": "CLAPHAM RD @ BUFFALO RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM161.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -519,7 +680,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM162",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ JEFFERIC BLVD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM162.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +701,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM163",
-        "source": "DelDOT TMC"
+        "name": "BAY RD @ BOWERS BEACH RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM163.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +722,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM169",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ JACKSON DITCH RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM169.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +743,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM170",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DSP HQ (K335)",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM170.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +764,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM171",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 14",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM171.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +785,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM173",
-        "source": "DelDOT TMC"
+        "name": "SAULSBURY RD @ WALKER RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM173.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +806,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM174",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ RD 30",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM174.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -631,7 +827,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM175",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ JEROME DR",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM175.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +848,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM176",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ CARTER RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM176.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +869,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM177",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 12",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM177.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -679,7 +890,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM178",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ BIG WOODS RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM178.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +911,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM179",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ BELMONT AVE",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM179.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +932,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM180",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DOVER MALL",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM180.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -727,7 +953,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM181",
-        "source": "DelDOT TMC"
+        "name": "BAY RD @ BLUE HEN MALL S. ENT",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM181.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -743,7 +974,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM183",
-        "source": "DelDOT TMC"
+        "name": "DE 8 @ KENTON RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM183.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -759,7 +995,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM185",
-        "source": "DelDOT TMC"
+        "name": "S LITTLE CREEK RD @ E DOVER ELEM",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM185.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +1016,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM186",
-        "source": "DelDOT TMC"
+        "name": "DE 8 @ CHESTNUT GROVE RD / NAULT RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM186.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +1037,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM187",
-        "source": "DelDOT TMC"
+        "name": "DE 1 BUSINESS (N REHOBOTH @ NO",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM187.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +1058,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM189",
-        "source": "DelDOT TMC"
+        "name": "DE 8 @ HEATHERFIELD WAY",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM189.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -823,7 +1079,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM190",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ FARMINGTON FIRE SIGNAL",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM190.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +1100,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM191",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ AIRPORT RD / NW 10TH",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM191.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +1121,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM192",
-        "source": "DelDOT TMC"
+        "name": "DE 15 (MCKEE RD) @ COLLEGE RD",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM192.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -871,7 +1142,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM195",
-        "source": "DelDOT TMC"
+        "name": "SB SR 1 @ PRIOR TO THOMPSONVIL",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM195.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +1163,12 @@
       "properties": {
         "state": "DE",
         "id": "KCAM206",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ Old Lebanon Rd",
+        "county": "Kent",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/KCAM206.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -903,7 +1184,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM001",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ DE 141 (ON RAMP)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM001.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -919,7 +1205,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM002",
-        "source": "DelDOT TMC"
+        "name": "DE 1 NB RAMP @ FASHION BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM002.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -935,7 +1226,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM005",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ RAMP B1 TO I 95 NB",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM005.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +1247,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM006",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ DE 273",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM006.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -967,7 +1268,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM008",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ SOUTH OF DE 141",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM008.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -983,7 +1289,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM015",
-        "source": "DelDOT TMC"
+        "name": "DE 7 @ DE 72",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM015.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1310,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM016",
-        "source": "DelDOT TMC"
+        "name": "US 40 @ DE 1 SB RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM016.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1015,7 +1331,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM017",
-        "source": "DelDOT TMC"
+        "name": "US 40 @ DE 896",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM017.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1031,7 +1352,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM018",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 896 (BOYDS CORNER)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM018.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1373,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM019",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ US 40",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM019.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1063,7 +1394,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM022",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ PINE TREE RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM022.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1079,7 +1415,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM023",
-        "source": "DelDOT TMC"
+        "name": "US 40 @ DE 72",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM023.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1436,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM034",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ DE 1 SB OFF RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM034.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1457,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM035",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ CHAPMAN RD / EAGLE RUN",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM035.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1127,7 +1478,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM036",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ HARMONY RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM036.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1499,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM037",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ DE 4 / STANTON-OGLETOWN RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM037.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1159,7 +1520,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM039",
-        "source": "DelDOT TMC"
+        "name": "DE 7 @ DE 4 STANTON",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM039.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1541,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM040",
-        "source": "DelDOT TMC"
+        "name": "DE 7 @ DE 4 MORGAN",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM040.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1562,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM041",
-        "source": "DelDOT TMC"
+        "name": "DE 7 @ CHURCHMANS RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM041.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1583,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM042",
-        "source": "DelDOT TMC"
+        "name": "DE 4 @ HARMONY RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM042.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1604,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM043",
-        "source": "DelDOT TMC"
+        "name": "DE 4 @ CHURCHMANS RD (DEL PARK ENT.)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM043.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1239,7 +1625,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM046",
-        "source": "DelDOT TMC"
+        "name": "CHRISTIANA MALL @ TEMP RING RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM046.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1255,7 +1646,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM048",
-        "source": "DelDOT TMC"
+        "name": "US 202 @ NAAMANS RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM048.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1271,7 +1667,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM049",
-        "source": "DelDOT TMC"
+        "name": "US 202 @ SILVERSIDE RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM049.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1287,7 +1688,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM050",
-        "source": "DelDOT TMC"
+        "name": "US 202 @ MURPHY RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM050.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1709,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM051",
-        "source": "DelDOT TMC"
+        "name": "FOULK RD @ SILVERSIDE RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM051.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1319,7 +1730,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM052",
-        "source": "DelDOT TMC"
+        "name": "DE 92 @ FOULK RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM052.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1751,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM053",
-        "source": "DelDOT TMC"
+        "name": "MARSHALL ST @ JUSTIS ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM053.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1351,7 +1772,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM054",
-        "source": "DelDOT TMC"
+        "name": "I 495 @ 12TH STREET / BRANDYWINE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM054.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1793,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM055",
-        "source": "DelDOT TMC"
+        "name": "I 495 @ I 495 OFF-RAMP TO TERMINAL AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM055.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1383,7 +1814,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM056",
-        "source": "DelDOT TMC"
+        "name": "GOV PRINTZ BLVD @ EDGEMOOR RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM056.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1399,7 +1835,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM057",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ I-495 RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM057.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1415,7 +1856,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM058",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ DE 92 (NAAMANS RD)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM058.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1877,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM059",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ US 202",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM059.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1447,7 +1898,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM060",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ DUPONT EXPER STA",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM060.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1919,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM062",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ DE 52 - GREENVILLE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM062.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1940,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM063",
-        "source": "DelDOT TMC"
+        "name": "US 13 BUS. @ 12TH ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM063.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1495,7 +1961,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM064",
-        "source": "DelDOT TMC"
+        "name": "PHILADELPHIA PIKE @ WASHINGTON ST EXT",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM064.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1982,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM065",
-        "source": "DelDOT TMC"
+        "name": "US 13 BUS. @ HOLLY OAK RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM065.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1527,7 +2003,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM066",
-        "source": "DelDOT TMC"
+        "name": "PHILADELPHIA PIKE @ GOV PRINTZ BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM066.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1543,7 +2024,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM067",
-        "source": "DelDOT TMC"
+        "name": "I 495 @ NORTH SLIP RAMPS/YALE AVENUE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM067.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1559,7 +2045,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM068",
-        "source": "DelDOT TMC"
+        "name": "I 495 @ BELLEVUE RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM068.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1575,7 +2066,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM069",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ LIBRARY AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM069.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1591,7 +2087,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM070",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ S COLLEGE AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM070.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1607,7 +2108,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM071",
-        "source": "DelDOT TMC"
+        "name": "DE 4 @ DE 896",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM071.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1623,7 +2129,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM072",
-        "source": "DelDOT TMC"
+        "name": "DE 4 @ DE 2",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM072.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1639,7 +2150,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM073",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 273",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM073.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +2171,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM074",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ BOULDEN BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM074.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +2192,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM075",
-        "source": "DelDOT TMC"
+        "name": "I 495 @ US 13 - SOUTHERN INTERCHANGE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM075.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1687,7 +2213,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM076",
-        "source": "DelDOT TMC"
+        "name": "DE 48 @ DE 141",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM076.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1703,7 +2234,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM077",
-        "source": "DelDOT TMC"
+        "name": "CENTERVILLE RD @ BOXWOOD RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM077.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1719,7 +2255,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM078",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ MARSH RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM078.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1735,7 +2276,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM080",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ I 95 NB OFF-RAMP TO HARVEY RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM080.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +2297,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM087",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ KIRKWOOD HWY",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM087.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1767,7 +2318,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM088",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ DE 100",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM088.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1783,7 +2339,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM089",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ US 13 (BLACKBIRD, N. OF DE 71 H&H)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM089.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1799,7 +2360,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM096",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ RD 381",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM096.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1815,7 +2381,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM097",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ US 13 (SCOTT RUN - SOUTH OF CANAL)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM097.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1831,7 +2402,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM100",
-        "source": "DelDOT TMC"
+        "name": "DE 896 @ RD 15",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM100.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1847,7 +2423,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM104",
-        "source": "DelDOT TMC"
+        "name": "DE 896 @ DE 71 (NORTH OF CANAL)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM104.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1863,7 +2444,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM105",
-        "source": "DelDOT TMC"
+        "name": "DE 896 @ BETHEL CHURCH RD (SOUTH OF CANAL)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM105.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1879,7 +2465,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM106",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ DE 1 SB OFF RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM106.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1895,7 +2486,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM107",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ OLD STATE RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM107.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +2507,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM108",
-        "source": "DelDOT TMC"
+        "name": "DE 299 @ DE 1 NB RMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM108.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1927,7 +2528,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM113",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ DE 34",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM113.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1943,7 +2549,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM114",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ TOLL PLAZA SB",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM114.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1959,7 +2570,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM116",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ REST STOP SB",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM116.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1975,7 +2591,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM117",
-        "source": "DelDOT TMC"
+        "name": "I 95 NB @ DE 141",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM117.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +2612,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM118",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ I 495 SPLIT",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM118.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2633,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM121",
-        "source": "DelDOT TMC"
+        "name": "DE 299 @ BUNKER HILL RD (MAIN ST)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM121.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2023,7 +2654,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM122",
-        "source": "DelDOT TMC"
+        "name": "US 301 @ SOUTH OF DE 299 SPLIT - MD LINE WEIGH STATION",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM122.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2039,7 +2675,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM123",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 1 NORTH SMYRNA RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM123.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2055,7 +2696,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM137",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ I 95 SB OFF-RAMP TO DE 141 SB",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM137.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2071,7 +2717,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM138",
-        "source": "DelDOT TMC"
+        "name": "9TH ST @ ADAMS ST (N)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM138.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2087,7 +2738,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM139",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ OTTS CHAPEL RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM139.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2103,7 +2759,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM140",
-        "source": "DelDOT TMC"
+        "name": "DE 896 @ OLD BALTIMORE PIKE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM140.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2119,7 +2780,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM141",
-        "source": "DelDOT TMC"
+        "name": "US 301 @ LEVELS RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM141.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2135,7 +2801,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM142",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DUCK CREEK RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM142.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2822,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM149",
-        "source": "DelDOT TMC"
+        "name": "DE 7 @ VALLEY RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM149.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2167,7 +2843,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM150",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ COMMONS BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM150.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2183,7 +2864,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM152",
-        "source": "DelDOT TMC"
+        "name": "ELKTON RD @ APPLE RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM152.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2199,7 +2885,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM153",
-        "source": "DelDOT TMC"
+        "name": "MLK BLVD @ S JUSTISON ST / DE 48",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM153.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2215,7 +2906,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM154",
-        "source": "DelDOT TMC"
+        "name": "MD AVE @ I-95 NB EXIT",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM154.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2231,7 +2927,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM156",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ CHRISTIANA MALL RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM156.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2247,7 +2948,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM157",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ ROAD 336A",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM157.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2263,7 +2969,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM158",
-        "source": "DelDOT TMC"
+        "name": "I 95 @ DE 7 RAMP WITH I 95 SB",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM158.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2279,7 +2990,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM159",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ I-295",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM159.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2295,7 +3011,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM160",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ AIRPORT RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM160.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2311,7 +3032,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM161",
-        "source": "DelDOT TMC"
+        "name": "US 202 @ RIGHTER PARKWAY",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM161.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2327,7 +3053,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM162",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ DE 7",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM162.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2343,7 +3074,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM163",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ NORTH OF SCHOOL BELL BR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM163.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2359,7 +3095,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM164",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ DELAWARE PARK DR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM164.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2375,7 +3116,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM165",
-        "source": "DelDOT TMC"
+        "name": "US 301 SB RAMP @ LEVELS RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM165.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +3137,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM166",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ OLD BALTIMORE PIKE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM166.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2407,7 +3158,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM167",
-        "source": "DelDOT TMC"
+        "name": "DE 52 @ N ADAMS ST (CITY OF WILM)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM167.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2423,7 +3179,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM168",
-        "source": "DelDOT TMC"
+        "name": "E 4TH ST @ N WALNUT ST (CITY O",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM168.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2439,7 +3200,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM169",
-        "source": "DelDOT TMC"
+        "name": "I 95 SB @ AT DE 141 OFF RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM169.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2455,7 +3221,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM170",
-        "source": "DelDOT TMC"
+        "name": "US 301 NB @ DE 896 (BOYDS CORNER RD)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM170.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2471,7 +3242,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM171",
-        "source": "DelDOT TMC"
+        "name": "US 301 @ JAMISONS CORNER RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM171.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2487,7 +3263,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM172",
-        "source": "DelDOT TMC"
+        "name": "US 301 NB @ US 301 OFF RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM172.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2503,7 +3284,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM173",
-        "source": "DelDOT TMC"
+        "name": "US 301 SB @ RAMP H & G",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM173.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2519,7 +3305,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM174",
-        "source": "DelDOT TMC"
+        "name": "US 301 NB @ N. MIDDLETOWN",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM174.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2535,7 +3326,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM175",
-        "source": "DelDOT TMC"
+        "name": "MALL RD @ W CENTER BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM175.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2551,7 +3347,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM176",
-        "source": "DelDOT TMC"
+        "name": "US 40 @ PORTER RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM176.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2567,7 +3368,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM177",
-        "source": "DelDOT TMC"
+        "name": "US 13 NB @ DE 299",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM177.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2583,7 +3389,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM178",
-        "source": "DelDOT TMC"
+        "name": "DE 4 @ DE 72",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM178.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2599,7 +3410,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM179",
-        "source": "DelDOT TMC"
+        "name": "WALNUT STREET @ SOUTH OF A STR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM179.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2615,7 +3431,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM180",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ NEW SWEDEN ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM180.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +3452,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM181",
-        "source": "DelDOT TMC"
+        "name": "DE 896 (BOYDS CORNER RD @ JAMISONS CORNER RD)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM181.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2647,7 +3473,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM182",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ AMERICAN BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM182.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2663,7 +3494,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM183",
-        "source": "DelDOT TMC"
+        "name": "E MAIN ST (DE 273) @ THE GREEN",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM183.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2679,7 +3515,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM184",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ DE 71",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM184.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2695,7 +3536,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM185",
-        "source": "DelDOT TMC"
+        "name": "E MAIN ST @ POMEROY LANE (TRAIL)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM185.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2711,7 +3557,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM186",
-        "source": "DelDOT TMC"
+        "name": "PHILADELPHIA PIKE (US 13) @ TRANSIT CTR DR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM186.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2727,7 +3578,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM187",
-        "source": "DelDOT TMC"
+        "name": "TRANSIT CENTER DRIVE @ TRANSIT",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM187.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2743,7 +3599,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM188",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ PORTER RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM188.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2759,7 +3620,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM189",
-        "source": "DelDOT TMC"
+        "name": "DE 896 @ PORTER RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM189.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2775,7 +3641,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM190",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ E CLEVELAND AVE/WOODLAWN AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM190.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2791,7 +3662,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM191",
-        "source": "DelDOT TMC"
+        "name": "DE 299 @ DE 71 (BROAD ST)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM191.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2807,7 +3683,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM192",
-        "source": "DelDOT TMC"
+        "name": "US 13 SB @ DE 299",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM192.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2823,7 +3704,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM194",
-        "source": "DelDOT TMC"
+        "name": "OLD BALTIMORE PIKE @ SALEM CHURCH RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM194.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2839,7 +3725,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM195",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 72",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM195.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2855,7 +3746,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM196",
-        "source": "DelDOT TMC"
+        "name": "DE 4 @ ALBAN DR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM196.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +3767,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM197",
-        "source": "DelDOT TMC"
+        "name": "LANCASTER AVE @ JACKSON ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM197.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2887,7 +3788,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM198",
-        "source": "DelDOT TMC"
+        "name": "4TH ST @ WASHINGTON ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM198.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2903,7 +3809,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM199",
-        "source": "DelDOT TMC"
+        "name": "4TH ST @ ADAMS ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM199.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2919,7 +3830,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM201",
-        "source": "DelDOT TMC"
+        "name": "2ND ST @ KING ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM201.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2935,7 +3851,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM203",
-        "source": "DelDOT TMC"
+        "name": "DE 299 @ CLEAVER FARM RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM203.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2951,7 +3872,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM204",
-        "source": "DelDOT TMC"
+        "name": "LANCASTER AVE @ LINCOLN ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM204.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2967,7 +3893,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM205",
-        "source": "DelDOT TMC"
+        "name": "Portable Camera - NCAM205",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM205.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2983,7 +3914,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM206",
-        "source": "DelDOT TMC"
+        "name": "CONCORD AVE @ BAYNARD BLVD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM206.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -2999,7 +3935,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM207",
-        "source": "DelDOT TMC"
+        "name": "MARKET ST @ CONCORD AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM207.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3015,7 +3956,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM208",
-        "source": "DelDOT TMC"
+        "name": "4TH ST @ UNION ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM208.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3031,7 +3977,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM209",
-        "source": "DelDOT TMC"
+        "name": "DELAWARE AVE @ JACKSON ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM209.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3047,7 +3998,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM210",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ POLLY DRUMMOND HILL RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM210.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3063,7 +4019,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM211",
-        "source": "DelDOT TMC"
+        "name": "DE 141 @ DE 273 (FRENCHTOWN RD)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM211.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3079,7 +4040,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM212",
-        "source": "DelDOT TMC"
+        "name": "KING ST/MARKET ST @ 16TH ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM212.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3095,7 +4061,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM213",
-        "source": "DelDOT TMC"
+        "name": "WALNUT ST @ 11TH ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM213.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +4082,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM214",
-        "source": "DelDOT TMC"
+        "name": "KING ST @ 10TH ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM214.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3127,7 +4103,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM215",
-        "source": "DelDOT TMC"
+        "name": "I 95 NB @ NORTH ADAMS ST O",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM215.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3143,7 +4124,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM217",
-        "source": "DelDOT TMC"
+        "name": "MARKET ST @ CHRISTINA CROSSING",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM217.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3159,7 +4145,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM218",
-        "source": "DelDOT TMC"
+        "name": "BAYNARD BLVD @ 16TH ST / WAS",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM218.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3175,7 +4166,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM219",
-        "source": "DelDOT TMC"
+        "name": "HEALD ST @ CHRISTINA AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM219.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3191,7 +4187,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM221",
-        "source": "DelDOT TMC"
+        "name": "12TH ST @ MARKET ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM221.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3207,7 +4208,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM222",
-        "source": "DelDOT TMC"
+        "name": "PENNSYLVANIA AVE @ GREENHILL AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM222.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3223,7 +4229,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM223",
-        "source": "DelDOT TMC"
+        "name": "PENNSYLVANIA AVE @ N RODNEY ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM223.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3239,7 +4250,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM224",
-        "source": "DelDOT TMC"
+        "name": "LANCASTER AVE @ S DUPONT RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM224.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3255,7 +4271,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM225",
-        "source": "DelDOT TMC"
+        "name": "DE 52 @ DE 100",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM225.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3271,7 +4292,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM226",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ DE 100",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM226.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3287,7 +4313,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM227",
-        "source": "DelDOT TMC"
+        "name": "AUGUSTINE CUTOFF @ 18TH ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM227.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3303,7 +4334,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM228",
-        "source": "DelDOT TMC"
+        "name": "OLD CAPITOL TRAIL @ NEWPORT GAP PIKE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM228.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3319,7 +4355,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM229",
-        "source": "DelDOT TMC"
+        "name": "CENTERVILLE RD @ OLD CAPITOL TRAIL",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM229.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3335,7 +4376,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM230",
-        "source": "DelDOT TMC"
+        "name": "CENTERVILLE RD @ GREENBANK RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM230.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3351,7 +4397,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM236",
-        "source": "DelDOT TMC"
+        "name": "DE 34 (FAULKLAND RD) @ DE 100",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM236.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3367,7 +4418,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM243",
-        "source": "DelDOT TMC"
+        "name": "CASHO MILL RD @ SOUTH OF CSX TRACKS",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM243.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3383,7 +4439,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM244",
-        "source": "DelDOT TMC"
+        "name": "CASHO MILL RD @ NORTH OF CSX TRACKS",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM244.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3399,7 +4460,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM247",
-        "source": "DelDOT TMC"
+        "name": "FOULK RD @ BRANDYWINE HS",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM247.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3415,7 +4481,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM249",
-        "source": "DelDOT TMC"
+        "name": "POLE BRIDGE RD @ DE 1 NB RAMP",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM249.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3431,7 +4502,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM253",
-        "source": "DelDOT TMC"
+        "name": "SR 896 @ WELSH TRACT ROAD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM253.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3447,7 +4523,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM255",
-        "source": "DelDOT TMC"
+        "name": "DE 9 @ CLINTON ST",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM255.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3463,7 +4544,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM256",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ DE 9 (RIVER RD) / CLARKS CORNER RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM256.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3479,7 +4565,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM258",
-        "source": "DelDOT TMC"
+        "name": "RAMP FROM SB I-495 AND I-95 @ NB",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM258.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3495,7 +4586,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM263",
-        "source": "DelDOT TMC"
+        "name": "SUMMIT BRIDGE RD @ SUMMIT AVIATION",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM263.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3511,7 +4607,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM264",
-        "source": "DelDOT TMC"
+        "name": "LEVELS RD @ PATRIOT DR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM264.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3527,7 +4628,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM266",
-        "source": "DelDOT TMC"
+        "name": "HEALD ST @ ROGERS RD (DE 13A @ ROGERS RD)",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM266.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3543,7 +4649,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM268",
-        "source": "DelDOT TMC"
+        "name": "BOYDS CORNER RD @ WEST CENTRAL PARK DR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM268.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3559,7 +4670,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM269",
-        "source": "DelDOT TMC"
+        "name": "TELEGRAPH RD @ NORTH OF CSX BR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM269.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3575,7 +4691,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM270",
-        "source": "DelDOT TMC"
+        "name": "TELEGRAPH RD @ SOUTH OF CSX BR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM270.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +4712,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM271",
-        "source": "DelDOT TMC"
+        "name": "DE 41 @ DE 48",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM271.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3607,7 +4733,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM273",
-        "source": "DelDOT TMC"
+        "name": "DE 71 @ SAINT ANNES CHURCH RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM273.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3623,7 +4754,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM274",
-        "source": "DelDOT TMC"
+        "name": "US 40 @ PLEASANT VALLEY ROAD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM274.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3639,7 +4775,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM275",
-        "source": "DelDOT TMC"
+        "name": "CENTER BLVD S @ CHRISTIANA RET",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM275.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3655,7 +4796,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM276",
-        "source": "DelDOT TMC"
+        "name": "DE 2 @ MEADOWOOD DRIVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM276.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3671,7 +4817,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM281",
-        "source": "DelDOT TMC"
+        "name": "MILLTOWN RD @ MCKENNANS CHURCH RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM281.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3687,7 +4838,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM282",
-        "source": "DelDOT TMC"
+        "name": "DE 7 @ MILLTOWN RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM282.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3703,7 +4859,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM283",
-        "source": "DelDOT TMC"
+        "name": "SR 273 @ PRANGS LANE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM283.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3719,7 +4880,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM285",
-        "source": "DelDOT TMC"
+        "name": "A STREET @ NEW CASTLE AVE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM285.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3735,7 +4901,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM292",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ LANDERS LANE / RIVERVIEW DR",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM292.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3751,7 +4922,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM295",
-        "source": "DelDOT TMC"
+        "name": "DE 41 @ WITHERS WAY",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM295.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3767,7 +4943,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM302",
-        "source": "DelDOT TMC"
+        "name": "CHAPMAN RD @ WAKEFIELD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM302.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3783,7 +4964,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM304",
-        "source": "DelDOT TMC"
+        "name": "DE 72 @ WYOMING RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM304.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3799,7 +4985,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM305",
-        "source": "DelDOT TMC"
+        "name": "DE 273 @ OLD BALTIMORE PIKE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM305.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3815,7 +5006,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM306",
-        "source": "DelDOT TMC"
+        "name": "DE 4 (E. CHESTNUT HILL RD) @ GENDER RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM306.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3831,7 +5027,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM307",
-        "source": "DelDOT TMC"
+        "name": "I 95 NB @ MARYLAND STATE LINE",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM307.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3847,7 +5048,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM312",
-        "source": "DelDOT TMC"
+        "name": "I 495 NB @ NORTH OF SPLIT",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM312.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3863,7 +5069,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM314",
-        "source": "DelDOT TMC"
+        "name": "I 95 NB @ NORTH OF CHURCHMANS RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM314.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3879,7 +5090,12 @@
       "properties": {
         "state": "DE",
         "id": "NCAM321",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ PADDOCK RD",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/NCAM321.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3895,13 +5111,18 @@
       "properties": {
         "state": "DE",
         "id": "PCAM4061",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ Access Road B",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/PCAM4061.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.06302,
-          38.60193
+          -75.06303,
+          38.60197
         ]
       }
     },
@@ -3911,7 +5132,12 @@
       "properties": {
         "state": "DE",
         "id": "PCAM4461",
-        "source": "DelDOT TMC"
+        "name": "GODWIN SCHOOL RD @ SHEEP PEN RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/PCAM4461.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3927,13 +5153,18 @@
       "properties": {
         "state": "DE",
         "id": "PCAM8961",
-        "source": "DelDOT TMC"
+        "name": "DE 896/I-95 CONSTRUCTION PROJECT",
+        "county": "New Castle",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/PCAM8961.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.74594,
-          39.64673
+          -75.74598,
+          39.64674
         ]
       }
     },
@@ -3943,7 +5174,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM001",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 54",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM001.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3959,7 +5195,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM002",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 26",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM002.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3975,7 +5216,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM003",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ US 9",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM003.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -3991,7 +5237,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM004",
-        "source": "DelDOT TMC"
+        "name": "DE 26 @ DE 17",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM004.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4007,7 +5258,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM009",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 1A",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM009.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4023,7 +5279,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM010",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 1A REHOBOTH",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM010.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4039,7 +5300,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM011",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 24",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM011.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4055,7 +5321,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM012",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ RD 268A",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM012.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4071,7 +5342,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM013",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ COLLINS ST (DEWEY BEACH)",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM013.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4087,7 +5363,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM014",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ CAMELOT",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM014.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4103,7 +5384,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM082",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ US 9",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM082.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4119,7 +5405,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM083",
-        "source": "DelDOT TMC"
+        "name": "HIGH ST @ FRONT ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM083.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4135,7 +5426,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM084",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 24",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM084.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4151,7 +5447,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM085",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ RD 334",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM085.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4167,7 +5468,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM093",
-        "source": "DelDOT TMC"
+        "name": "DE 26 @ RD 357",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM093.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4183,7 +5489,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM094",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 18",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM094.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4199,7 +5510,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM095",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 404",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM095.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4215,7 +5531,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM098",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ INDIAN RIVER BRIDGE INLET - NORTH",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM098.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4231,7 +5552,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM099",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ INDIAN RIVER BRIDGE INLET - SOUTH",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM099.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4247,7 +5573,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM101",
-        "source": "DelDOT TMC"
+        "name": "DE 54 @ DE 20",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM101.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4263,7 +5594,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM112",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ RD 534",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM112.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4279,7 +5615,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM130",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 20 NORTH",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM130.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4295,7 +5636,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM133",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ TOWN CENTER BLVD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM133.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +5657,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM135",
-        "source": "DelDOT TMC"
+        "name": "DE 1A @ CHURCH ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM135.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4327,7 +5678,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM143",
-        "source": "DelDOT TMC"
+        "name": "DE 26 @ DE 20",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM143.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4343,7 +5699,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM144",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ RD 283",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM144.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4359,7 +5720,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM146",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ JAMES ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM146.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4375,7 +5741,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM148",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 30",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM148.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4391,7 +5762,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM151",
-        "source": "DelDOT TMC"
+        "name": "DE 26 @ MAIN ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM151.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4407,7 +5783,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM155",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ ARROW SAFETY RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM155.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4423,7 +5804,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM160",
-        "source": "DelDOT TMC"
+        "name": "DE 26 @ RD 334",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM160.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4439,7 +5825,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM161",
-        "source": "DelDOT TMC"
+        "name": "PRIMEHOOK RD @ SNOW GOOSE RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM161.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4455,7 +5846,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM162",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ DE 16",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM162.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4471,7 +5867,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM163",
-        "source": "DelDOT TMC"
+        "name": "US 13 NB @ DE 16",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM163.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4487,7 +5888,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM164",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ FITZGERALD RD/JOHNS",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM164.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4503,7 +5909,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM165",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 26",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM165.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4519,7 +5930,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM166",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 16",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM166.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4535,7 +5951,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM168",
-        "source": "DelDOT TMC"
+        "name": "DE 1 NB @ NE FRONT STREET INTE",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM168.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4551,7 +5972,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM169",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ IRIB SOUTH PYLON TOP",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM169.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4567,7 +5993,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM170",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ IRIB NORTH PYLON TOP",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM170.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4583,7 +6014,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM174",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ DE 5",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM174.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4599,7 +6035,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM175",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ BEEBE ROAD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM175.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4615,7 +6056,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM176",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ REHOBOTH MALL",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM176.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4631,7 +6077,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM177",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ PLANTATION/WARRINGTON",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM177.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4647,7 +6098,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM178",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ SAND HILL RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM178.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4663,7 +6119,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM179",
-        "source": "DelDOT TMC"
+        "name": "DE 24 EB @ STATE ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM179.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4679,7 +6140,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM180",
-        "source": "DelDOT TMC"
+        "name": "DE 24 WB @ STATE ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM180.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4695,7 +6161,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM181",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ DE 5/23 (ROAD 22)",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM181.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4711,7 +6182,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM182",
-        "source": "DelDOT TMC"
+        "name": "US 9 KINGS HWY @ CLAY RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM182.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4727,7 +6203,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM183",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ PARK AVE",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM183.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4743,7 +6224,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM184",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DEER FOREST RD/E REDD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM184.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4759,7 +6245,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM187",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ DE 1/US 9/DE 23 CONNECTOR",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM187.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4775,7 +6266,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM188",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 24",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM188.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4791,7 +6287,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM189",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ US 9",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM189.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4807,7 +6308,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM190",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 54",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM190.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4823,7 +6329,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM191",
-        "source": "DelDOT TMC"
+        "name": "US 13 @ DE 54",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM191.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4839,7 +6350,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM192",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ ROBINSONVILLE RD/ANGOLA RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM192.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4855,7 +6371,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM193",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ MOUNT JOY RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM193.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4871,7 +6392,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM194",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ RD 279 (PEDDLERS VILLAGE)",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM194.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4887,7 +6413,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM195",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ AUTUMN RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM195.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4903,7 +6434,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM196",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ BEACON MIDDLE SCHOOL",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM196.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4919,7 +6455,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM198",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ HOLLYMOUNT RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM198.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4935,7 +6476,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM199",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ SPRING LAKE DR",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM199.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4951,7 +6497,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM200",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ BELLEVUE ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM200.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4967,7 +6518,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM201",
-        "source": "DelDOT TMC"
+        "name": "US 113 SOUTHBOUND @ SR 20 INTE",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM201.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4983,7 +6539,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM202",
-        "source": "DelDOT TMC"
+        "name": "DE 54 @ LINCOLN AVE",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM202.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -4999,7 +6560,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM203",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ READ ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM203.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5015,7 +6581,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM204",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ RD 360",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM204.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5031,7 +6602,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM205",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ BUS 24/HOLLYVILLE RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM205.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5047,7 +6623,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM206",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ GOVERNOR STOCKLEY RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM206.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5063,7 +6644,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM207",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ AVENUE OF HONOR",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM207.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5079,7 +6665,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM208",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ REHOBOTH MALL",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM208.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5095,7 +6686,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM209",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ MASON DIXON SHOPPING",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM209.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5111,7 +6707,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM210",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ HOSIER ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM210.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5127,7 +6728,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM211",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ MINOS CONAWAY RD/ LAKEV",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM211.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5143,7 +6749,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM213",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ MONROE AVE",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM213.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5159,7 +6770,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM214",
-        "source": "DelDOT TMC"
+        "name": "DE 1 BUSINESS (S REHOBOTH @ SO",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM214.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5175,7 +6791,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM215",
-        "source": "DelDOT TMC"
+        "name": "US 13 SB @ DE 16",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM215.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5191,7 +6812,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM222",
-        "source": "DelDOT TMC"
+        "name": "DE 16 (BEACH HIGHWAY) @ MULBER",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM222.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5207,7 +6833,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM226",
-        "source": "DelDOT TMC"
+        "name": "US 9 @ NASSAU COMMONS BLVD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM226.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5223,7 +6854,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM227",
-        "source": "DelDOT TMC"
+        "name": "MAIN STREET (SR 334) @ IRON BR",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM227.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5239,7 +6875,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM229",
-        "source": "DelDOT TMC"
+        "name": "SR 1 @ YORK RD/LOGAN ST",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM229.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5255,7 +6896,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM230",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ LAYTON DR",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM230.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5271,7 +6917,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM231",
-        "source": "DelDOT TMC"
+        "name": "DE 1 @ EVERGREEN RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM231.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5287,7 +6938,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM233",
-        "source": "DelDOT TMC"
+        "name": "US 9 (KINGS HWY) @ GILLS NECK",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM233.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5303,7 +6959,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM234",
-        "source": "DelDOT TMC"
+        "name": "US 113 @ DE 36 (SHAWNEE RD)",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM234.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5319,7 +6980,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM235",
-        "source": "DelDOT TMC"
+        "name": "DE 1 SB @ EAGLE CREST RD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM235.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
@@ -5335,7 +7001,12 @@
       "properties": {
         "state": "DE",
         "id": "SCAM236",
-        "source": "DelDOT TMC"
+        "name": "DE 24 @ PLANTATION LAKES BLVD",
+        "county": "Sussex",
+        "enabled": 1,
+        "source": "DelDOT Traffic Cameras (FirstMap)",
+        "m3u8": "https://video.deldot.gov:443/live/SCAM236.stream/playlist.m3u8",
+        "needs_proxy": false
       },
       "geometry": {
         "type": "Point",
