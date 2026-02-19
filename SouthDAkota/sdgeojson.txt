@@ -1,1 +1,0 @@
-https://sd.cdn.iteris-atis.com/geojson/icons/metadata/icons.cameras.geojson
