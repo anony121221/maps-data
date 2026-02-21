@@ -1,0 +1,5553 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57111,
+          42.32174
+        ]
+      },
+      "properties": {
+        "id": "10252",
+        "view_id": "2751132589",
+        "uri": "camera/10252",
+        "name": "I-495: I-495-NB-MM61.8-Marlboro-Ex 62 Simarano Dr",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60602,
+          42.27748
+        ]
+      },
+      "properties": {
+        "id": "10256",
+        "view_id": "3659620983",
+        "uri": "camera/10256",
+        "name": "I-91: I-91-NB-MM20.1-Holyoke-2.5 mi before Ex 23 Rt 5",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05923,
+          42.34629
+        ]
+      },
+      "properties": {
+        "id": "10257",
+        "view_id": "2294254065",
+        "uri": "camera/10257",
+        "name": "I-93: Ramp CC-EB-Boston-90E x24C to 93S b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55164,
+          41.77901
+        ]
+      },
+      "properties": {
+        "id": "10264",
+        "view_id": "1826126219",
+        "uri": "camera/10264",
+        "name": "US 6: Rt6-EB-MM53.2-Bourne-0.5 mi before Rt6/6A Br. Exit",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79346,
+          42.26425
+        ]
+      },
+      "properties": {
+        "id": "10289",
+        "view_id": "1688449995",
+        "uri": "camera/10289",
+        "name": "I-290: 290-MM018.2WB-Worcester-Ex 20 Onramp",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05761,
+          42.34838
+        ]
+      },
+      "properties": {
+        "id": "10296",
+        "view_id": "270105847",
+        "uri": "camera/10296",
+        "name": "I-93: RoadSSCN-NB-MM0.1-S. Boston-S. Sta. Conn a",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.20528,
+          42.24324
+        ]
+      },
+      "properties": {
+        "id": "10321",
+        "view_id": "2463554289",
+        "uri": "camera/10321",
+        "name": "RT-109: I-95-SB-MM30.8-Dedham-0.2 mi after Ex 31B Rt 109",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14165,
+          42.7353
+        ]
+      },
+      "properties": {
+        "id": "10342",
+        "view_id": "3929187805",
+        "uri": "camera/10342",
+        "name": "I-495: I-495-SB-MM103.6-Methuen-0.5 mi before Ex104 Rt110",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46559,
+          42.11433
+        ]
+      },
+      "properties": {
+        "id": "10344",
+        "view_id": "1117029856",
+        "uri": "camera/10344",
+        "name": "I-495: I-495-NB-MM45.8-Bellingham-Ex 46 Rt 126",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04415,
+          42.01444
+        ]
+      },
+      "properties": {
+        "id": "10348",
+        "view_id": "1021807553",
+        "uri": "camera/10348",
+        "name": "RT-106: Rt24-SB-MM27.8-W. Bridgewater-Ex 28 Rt 106",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0682,
+          42.36672
+        ]
+      },
+      "properties": {
+        "id": "7277",
+        "view_id": "3192885843",
+        "uri": "camera/7277",
+        "name": "RT-28: RoadOHWY-SB-MM0.1-Boston-Leverett Circle",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06047,
+          42.34623
+        ]
+      },
+      "properties": {
+        "id": "7278",
+        "view_id": "2626865463",
+        "uri": "camera/7278",
+        "name": "I-90: RampX-SB-MM0.1-Boston-Kneeland to HOV-E b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05973,
+          42.34794
+        ]
+      },
+      "properties": {
+        "id": "7280",
+        "view_id": "2485789390",
+        "uri": "camera/7280",
+        "name": "I-93 HOV: RampCC-EB-MM0.4-Boston-90E Ex 134C to 93S f",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06064,
+          42.34454
+        ]
+      },
+      "properties": {
+        "id": "7288",
+        "view_id": "846566661",
+        "uri": "camera/7288",
+        "name": "I-93: RampK-NB-MM0.7-Boston-93N Ex 16 f",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57507,
+          42.34083
+        ]
+      },
+      "properties": {
+        "id": "10368",
+        "view_id": "1876261212",
+        "uri": "camera/10368",
+        "name": "I-495: I-495-NB-MM63.2-Marlboro-Ex 63 Rt 20",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0641,
+          42.33864
+        ]
+      },
+      "properties": {
+        "id": "10371",
+        "view_id": "88652831",
+        "uri": "camera/10371",
+        "name": "I-93: Ramp K-NB-Boston-93N x20 b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56931,
+          42.2645
+        ]
+      },
+      "properties": {
+        "id": "10372",
+        "view_id": "2066691450",
+        "uri": "camera/10372",
+        "name": "I-90: I-90-EB-MM106.2-Hopkinton-Ex 106 I-495",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61607,
+          42.48431
+        ]
+      },
+      "properties": {
+        "id": "10380",
+        "view_id": "2724619313",
+        "uri": "camera/10380",
+        "name": "I-91: I-91-NB-MM35.9-Deerfield-Ex 36 Rt 116",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60643,
+          42.11166
+        ]
+      },
+      "properties": {
+        "id": "7308",
+        "view_id": "2021083503",
+        "uri": "camera/7308",
+        "name": "I-91: I-91-NB-MM6.7-Springfield-Ex 7B Rts 20 & 20A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06128,
+          42.3439
+        ]
+      },
+      "properties": {
+        "id": "10392",
+        "view_id": "3839838315",
+        "uri": "camera/10392",
+        "name": "I-93 HOV: I-93-SB-MM16.1-Boston-before Mass Ave Conn",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14095,
+          42.20587
+        ]
+      },
+      "properties": {
+        "id": "10394",
+        "view_id": "548853691",
+        "uri": "camera/10394",
+        "name": "I-95: I-95-NB-MM26.3-Canton-Ex 1 I-93",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05772,
+          42.3482
+        ]
+      },
+      "properties": {
+        "id": "10396",
+        "view_id": "3504600418",
+        "uri": "camera/10396",
+        "name": "I-93: Ramp KK-WB-Boston-93N x20 to 90W c",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06981,
+          42.36493
+        ]
+      },
+      "properties": {
+        "id": "10398",
+        "view_id": "999319240",
+        "uri": "camera/10398",
+        "name": "RT-3: Road STWB-WB-TNL-Storrow WB",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11776,
+          41.68
+        ]
+      },
+      "properties": {
+        "id": "10399",
+        "view_id": "3629439170",
+        "uri": "camera/10399",
+        "name": "I-195: I-195-EB-MM14.8-Westport-1/4 mi before Ex 15",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32296,
+          42.6262
+        ]
+      },
+      "properties": {
+        "id": "10402",
+        "view_id": "2469393368",
+        "uri": "camera/10402",
+        "name": "RT-110: LowellConn-SB-MM1.6-Chelmsford-Ex 4 Plain St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23095,
+          42.64293
+        ]
+      },
+      "properties": {
+        "id": "10410",
+        "view_id": "1910091163",
+        "uri": "camera/10410",
+        "name": "I-495: I-495-SB-MM92.3-Tewksbury-Ex 92 Rt 38 ",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06497,
+          42.3372
+        ]
+      },
+      "properties": {
+        "id": "7338",
+        "view_id": "1707183362",
+        "uri": "camera/7338",
+        "name": "I-93 HOV: I-93-SB-MM15.6-Boston-before Southampton St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05594,
+          42.35163
+        ]
+      },
+      "properties": {
+        "id": "10413",
+        "view_id": "624417804",
+        "uri": "camera/10413",
+        "name": "I-93: I-93-NB-MM16.7-Boston-@ Frontage Rd merge",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22036,
+          42.47874
+        ]
+      },
+      "properties": {
+        "id": "10414",
+        "view_id": "3726655271",
+        "uri": "camera/10414",
+        "name": "US 3: Rt3-NB-MM71.2-Burlington-from I-95 Ex 50A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62473,
+          42.34619
+        ]
+      },
+      "properties": {
+        "id": "10415",
+        "view_id": "145917852",
+        "uri": "camera/10415",
+        "name": "I-290: 290-MM030.1EB-Northboro-Ex 30 Solomon Pond Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02776,
+          41.96581
+        ]
+      },
+      "properties": {
+        "id": "10425",
+        "view_id": "2229094443",
+        "uri": "camera/10425",
+        "name": "RT-24: Rt24-NB-MM24.3-Bridgewater-Ex 24 Rt 104",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.54477,
+          42.48697
+        ]
+      },
+      "properties": {
+        "id": "10429",
+        "view_id": "1850496141",
+        "uri": "camera/10429",
+        "name": "RT-111: I-495-NB-MM74.6-Boxboro-Ex 75 Rt 111",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19176,
+          42.48997
+        ]
+      },
+      "properties": {
+        "id": "10442",
+        "view_id": "314795632",
+        "uri": "camera/10442",
+        "name": "US 3: I-95/128-SB-Burlington-Exit 33 Rt 3A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.206,
+          42.14488
+        ]
+      },
+      "properties": {
+        "id": "10445",
+        "view_id": "2924558562",
+        "uri": "camera/10445",
+        "name": "I-95: I-95-SB-MM20.6-Sharon-1.1 mi before Ex 19 Rt 1",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61549,
+          42.28441
+        ]
+      },
+      "properties": {
+        "id": "10447",
+        "view_id": "3146817689",
+        "uri": "camera/10447",
+        "name": "I-91: I-91-NB-MM20.8-Holyoke-1.8 mi before Ex 23 Rt 5",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60146,
+          41.87378
+        ]
+      },
+      "properties": {
+        "id": "10457",
+        "view_id": "3404881546",
+        "uri": "camera/10457",
+        "name": "RT-3: Rt3-SB-MM7.3-Plymouth-Ex 7 Clark Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32088,
+          42.60779
+        ]
+      },
+      "properties": {
+        "id": "10460",
+        "view_id": "1504417363",
+        "uri": "camera/10460",
+        "name": "I-495: I-495-NB-MM89.1-Chelmsford-Ex 89 Rt 3 & LowellConn",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.58528,
+          42.25091
+        ]
+      },
+      "properties": {
+        "id": "10462",
+        "view_id": "3255533642",
+        "uri": "camera/10462",
+        "name": "I-90: I-90-EB-MM105.0-Hopkinton-East of gantry [TZ-7]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.58997,
+          42.36299
+        ]
+      },
+      "properties": {
+        "id": "10465",
+        "view_id": "1433473510",
+        "uri": "camera/10465",
+        "name": "I-495: I-495-NB-MM64.9-Marlboro-Ex 65 I-290",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.26285,
+          42.33977
+        ]
+      },
+      "properties": {
+        "id": "10473",
+        "view_id": "1956230671",
+        "uri": "camera/10473",
+        "name": "I-90: 090-MM123.4EB-Weston-at Ex 123A/B I-95, Rt 30",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06933,
+          42.37068
+        ]
+      },
+      "properties": {
+        "id": "10475",
+        "view_id": "3132410312",
+        "uri": "camera/10475",
+        "name": "US 1: Ramp STB-NB-Charlestown-Storrow to Tobin b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.84529,
+          42.15116
+        ]
+      },
+      "properties": {
+        "id": "10491",
+        "view_id": "898912478",
+        "uri": "camera/10491",
+        "name": "RT-3: Rt3-NB-MM31.8-Hanover-Ex 32 Washington St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.78761,
+          42.20722
+        ]
+      },
+      "properties": {
+        "id": "10493",
+        "view_id": "637944680",
+        "uri": "camera/10493",
+        "name": "I-90: I-90-EB-MM93.6-Millbury-Ex 94 Rts 122A & 146",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55339,
+          41.81438
+        ]
+      },
+      "properties": {
+        "id": "10495",
+        "view_id": "4238661123",
+        "uri": "camera/10495",
+        "name": "RT-3A: Rt3-NB-MM2.5-Plymouth-Ex 3 Herring Pond Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13864,
+          41.68119
+        ]
+      },
+      "properties": {
+        "id": "10500",
+        "view_id": "374788994",
+        "uri": "camera/10500",
+        "name": "RT-24: Rt24-SB-MM1.7-Fall River-Ex 2 Brayton Ave",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.84546,
+          42.15055
+        ]
+      },
+      "properties": {
+        "id": "10506",
+        "view_id": "1180429602",
+        "uri": "camera/10506",
+        "name": "RT-53: Rt3-SB-MM31.8-Hanover-Ex 32 Washington St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06982,
+          42.37138
+        ]
+      },
+      "properties": {
+        "id": "10510",
+        "view_id": "712884100",
+        "uri": "camera/10510",
+        "name": "US 1: Ramp TC-SB-Charlestown-Tobin to 93S/Storrow d",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31954,
+          42.33284
+        ]
+      },
+      "properties": {
+        "id": "10513",
+        "view_id": "1482490392",
+        "uri": "camera/10513",
+        "name": "I-90: 090-MM120.3WB-Weston-Before Weston Gantry [TZ-10]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62146,
+          42.50991
+        ]
+      },
+      "properties": {
+        "id": "10514",
+        "view_id": "2470288773",
+        "uri": "camera/10514",
+        "name": "I-91: I-91-NB-MM37.7-Deerfield-@ Lee Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06457,
+          42.33438
+        ]
+      },
+      "properties": {
+        "id": "10515",
+        "view_id": "3020585257",
+        "uri": "camera/10515",
+        "name": "I-93: I-93-SB-MM15.4-Boston-@ South Bay Mall",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06229,
+          41.84807
+        ]
+      },
+      "properties": {
+        "id": "10520",
+        "view_id": "2601346352",
+        "uri": "camera/10520",
+        "name": "RT-24: Rt24-NB-MM15.7-Berkley-Ex 16 Padelford St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06492,
+          42.33503
+        ]
+      },
+      "properties": {
+        "id": "7453",
+        "view_id": "966638735",
+        "uri": "camera/7453",
+        "name": "I-93: RoadFRNB-NB-MM0.3-Boston-FRNB-051",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02076,
+          41.94683
+        ]
+      },
+      "properties": {
+        "id": "10528",
+        "view_id": "838090603",
+        "uri": "camera/10528",
+        "name": "I-495: I-495-NB-MM19.0-Bridgewater-Ex 19A/B to Rt 24",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23145,
+          42.4215
+        ]
+      },
+      "properties": {
+        "id": "10529",
+        "view_id": "4266276479",
+        "uri": "camera/10529",
+        "name": "RT-2: Rt2-ME-MM130.0-Lexington-Ex 129 Waltham St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59714,
+          42.10915
+        ]
+      },
+      "properties": {
+        "id": "10531",
+        "view_id": "2917349551",
+        "uri": "camera/10531",
+        "name": "I-291: I-93-NB-MM3.5-Randolph-Ex 4 Rt 24",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14132,
+          42.55978
+        ]
+      },
+      "properties": {
+        "id": "10536",
+        "view_id": "1623515267",
+        "uri": "camera/10536",
+        "name": "I-93: I-93-NB-MM32.7-Wilmington-After Ex 33 Concord St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01744,
+          42.43135
+        ]
+      },
+      "properties": {
+        "id": "10551",
+        "view_id": "135661227",
+        "uri": "camera/10551",
+        "name": "US 1: Rt1-NB-MM53.4-Revere-past Rt 60 Squire Rd Rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91604,
+          42.17898
+        ]
+      },
+      "properties": {
+        "id": "10552",
+        "view_id": "894889586",
+        "uri": "camera/10552",
+        "name": "RT-3: Rt3-NB-MM15.9-Plymouth-Ex 16 Rt 44",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.67473,
+          41.94418
+        ]
+      },
+      "properties": {
+        "id": "10553",
+        "view_id": "3336642459",
+        "uri": "camera/10553",
+        "name": "RT-3: Rt3-SB-MM13.9-Plymouth-0.7 mi before Ex 13 Long Pd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04613,
+          42.34828
+        ]
+      },
+      "properties": {
+        "id": "10556",
+        "view_id": "336281057",
+        "uri": "camera/10556",
+        "name": "I-90: RoadMHRW-WB-MM0.1-S. Boston-@ Pumphouse Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28906,
+          42.61818
+        ]
+      },
+      "properties": {
+        "id": "10557",
+        "view_id": "1043777457",
+        "uri": "camera/10557",
+        "name": "I-495: I-495-NB-MM90.2-Chelmsford-@ Carlisle St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67908,
+          42.33239
+        ]
+      },
+      "properties": {
+        "id": "10560",
+        "view_id": "1537865253",
+        "uri": "camera/10560",
+        "name": "I-290: 290-MM027.0EB-Northborough-Ex 27 Church St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06826,
+          42.37235
+        ]
+      },
+      "properties": {
+        "id": "7488",
+        "view_id": "2063244434",
+        "uri": "camera/7488",
+        "name": "US 1: Ramp TC-SB-Charlestown-Tobin to 93S/Storrow e",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30665,
+          42.61192
+        ]
+      },
+      "properties": {
+        "id": "10567",
+        "view_id": "2618973450",
+        "uri": "camera/10567",
+        "name": "I-495: I-495-NB-MM89.4-Lowell-Ex 89 & Lowell Conn. onramp",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07527,
+          42.37789
+        ]
+      },
+      "properties": {
+        "id": "10569",
+        "view_id": "910214266",
+        "uri": "camera/10569",
+        "name": "I-93: I-93-SB-MM19.2-Charlestown-Lower Deck c",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.51712,
+          42.28001
+        ]
+      },
+      "properties": {
+        "id": "10570",
+        "view_id": "3671695961",
+        "uri": "camera/10570",
+        "name": "I-90: I-90-WB-MM109.1-Southboro-@ Barracks [TZ-8]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06369,
+          42.36643
+        ]
+      },
+      "properties": {
+        "id": "7500",
+        "view_id": "3922702803",
+        "uri": "camera/7500",
+        "name": "RT-3: RampL-CN-NB-MM0.2-Boston-Leverett to 93N c",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0045,
+          42.22558
+        ]
+      },
+      "properties": {
+        "id": "10574",
+        "view_id": "3071702275",
+        "uri": "camera/10574",
+        "name": "RT-3: Wash. St.-MM000.0SB-VMSC-Braintree-I-93 overpass",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05335,
+          42.30985
+        ]
+      },
+      "properties": {
+        "id": "10575",
+        "view_id": "2130982051",
+        "uri": "camera/10575",
+        "name": "I-93: I-93-NB-MM13.5-Boston-b/w Ex 13B & 14 Savin Hill",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32861,
+          42.61364
+        ]
+      },
+      "properties": {
+        "id": "10579",
+        "view_id": "501184862",
+        "uri": "camera/10579",
+        "name": "US 3: 003-MM082.7NB-Lowell- Ex 81C Rt 110",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11855,
+          42.77385
+        ]
+      },
+      "properties": {
+        "id": "10585",
+        "view_id": "3717696671",
+        "uri": "camera/10585",
+        "name": "I-495: I-495-NB-MM107.4-Haverhill-Ex 108 Rt 97 Broadway",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02553,
+          42.36799
+        ]
+      },
+      "properties": {
+        "id": "10586",
+        "view_id": "1275301197",
+        "uri": "camera/10586",
+        "name": "I-90: RampET-Logan-MM0.2-E. Boston-Logan to 90W a",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24366,
+          42.50196
+        ]
+      },
+      "properties": {
+        "id": "10587",
+        "view_id": "370051083",
+        "uri": "camera/10587",
+        "name": "RT-62: Rt3-SB-MM73.6-Bedford-Ex 73 Rt 62",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60891,
+          42.12132
+        ]
+      },
+      "properties": {
+        "id": "10596",
+        "view_id": "3834050199",
+        "uri": "camera/10596",
+        "name": "I-91: I-91-NB-MM7.4-Springfield-Ex 8 Rt 116",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61564,
+          42.33821
+        ]
+      },
+      "properties": {
+        "id": "10598",
+        "view_id": "154569636",
+        "uri": "camera/10598",
+        "name": "RT-9: Rt9-WB-Hadley-East of Coolidge Br",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2551,
+          42.33247
+        ]
+      },
+      "properties": {
+        "id": "10600",
+        "view_id": "1281448014",
+        "uri": "camera/10600",
+        "name": "I-95: I-95-NB-MM38.5-Newton-past Ex 38 Grove St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41781,
+          42.64642
+        ]
+      },
+      "properties": {
+        "id": "10602",
+        "view_id": "4151092792",
+        "uri": "camera/10602",
+        "name": "US 3: Rt3-SB-MM88.2-Chelmsford-1.3 mi before Ex 86 Rt 40",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.42786,
+          42.65859
+        ]
+      },
+      "properties": {
+        "id": "10604",
+        "view_id": "351256804",
+        "uri": "camera/10604",
+        "name": "US 3: 003-MM091.1NB-Tyngsboro-Ex 90 Rt 113 Kendall Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15096,
+          42.1925
+        ]
+      },
+      "properties": {
+        "id": "10607",
+        "view_id": "2037506567",
+        "uri": "camera/10607",
+        "name": "I-95: I-95-NB-MM25.1-Canton-0.75 mi before Ex 26 I-93",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06901,
+          41.95876
+        ]
+      },
+      "properties": {
+        "id": "10609",
+        "view_id": "358319668",
+        "uri": "camera/10609",
+        "name": "RT-138: I-495-SB-MM21.6-Raynham-Ex 22 Rt 138",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06343,
+          42.33987
+        ]
+      },
+      "properties": {
+        "id": "10611",
+        "view_id": "3278216137",
+        "uri": "camera/10611",
+        "name": "I-93: I-93-ME-MM15.8-Boston-NB Ex 16 to HOV-E",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11774,
+          41.75378
+        ]
+      },
+      "properties": {
+        "id": "10616",
+        "view_id": "2584113325",
+        "uri": "camera/10616",
+        "name": "RT-24: Rt24-SB-MM8.3-Fall River-Ex 8 Airport Rd/N. Main",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96778,
+          42.19901
+        ]
+      },
+      "properties": {
+        "id": "10618",
+        "view_id": "4292706520",
+        "uri": "camera/10618",
+        "name": "RT-3: Rt3-NB-MM39.0-Weymouth-1.5 mi before Ex 40 Union",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.20983,
+          42.7182
+        ]
+      },
+      "properties": {
+        "id": "10619",
+        "view_id": "2019653022",
+        "uri": "camera/10619",
+        "name": "I-93: I-93-SB-MM44.4-Methuen-before Ex 43 River Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32599,
+          42.60721
+        ]
+      },
+      "properties": {
+        "id": "10622",
+        "view_id": "3697913775",
+        "uri": "camera/10622",
+        "name": "I-495: I-495-SB-MM88.2-Chelmsford-Ex 88 Rt 110",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62464,
+          42.34623
+        ]
+      },
+      "properties": {
+        "id": "10626",
+        "view_id": "1983911370",
+        "uri": "camera/10626",
+        "name": "I-290: I-290-EB-MM18.1-Northboro-Ex 30 Solomon Pond Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06487,
+          42.5256
+        ]
+      },
+      "properties": {
+        "id": "10627",
+        "view_id": "2794344397",
+        "uri": "camera/10627",
+        "name": "I-95: I-95-SB-MM59.3-Lynnfield-@ Ex 59 Main St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.48444,
+          42.14812
+        ]
+      },
+      "properties": {
+        "id": "9604",
+        "view_id": "3150320635",
+        "uri": "camera/9604",
+        "name": "I-495: I-495-SB-MM48.4-Milford-Ex 48 Rt 109",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07645,
+          42.38375
+        ]
+      },
+      "properties": {
+        "id": "10632",
+        "view_id": "3508242525",
+        "uri": "camera/10632",
+        "name": "I-93: I-93-SB-MM19.8-Charlestown-Ex 18 Leverett Cir",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.80339,
+          42.2442
+        ]
+      },
+      "properties": {
+        "id": "10634",
+        "view_id": "2638277476",
+        "uri": "camera/10634",
+        "name": "I-290: 290-MM016.7EB-Worcester-Rt 146 interchange",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.53921,
+          42.16128
+        ]
+      },
+      "properties": {
+        "id": "10635",
+        "view_id": "2177533810",
+        "uri": "camera/10635",
+        "name": "I-90: I-90-EB-MM51.3-Ludlow-Ex 51 I-291",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54932,
+          42.14456
+        ]
+      },
+      "properties": {
+        "id": "10640",
+        "view_id": "339151394",
+        "uri": "camera/10640",
+        "name": "I-291: I-291-EB-MM4.3-Springfield-Ex 5B Rt 20A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54354,
+          41.7717
+        ]
+      },
+      "properties": {
+        "id": "10641",
+        "view_id": "1750909212",
+        "uri": "camera/10641",
+        "name": "US 6: Rt6-NB-MM55.2-Bourne-Ex 55 by Sagamore Br Conn",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21152,
+          42.35047
+        ]
+      },
+      "properties": {
+        "id": "10642",
+        "view_id": "3581448089",
+        "uri": "camera/10642",
+        "name": "I-90: I-90-EB-MM126.2-Newton-West of Lowell St [TZ-11]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12097,
+          41.68389
+        ]
+      },
+      "properties": {
+        "id": "10649",
+        "view_id": "1421234571",
+        "uri": "camera/10649",
+        "name": "RT-24: Rt24-SB-MM3.3-Fall River-before Ex 4 I-195",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05804,
+          42.34773
+        ]
+      },
+      "properties": {
+        "id": "10651",
+        "view_id": "4196058379",
+        "uri": "camera/10651",
+        "name": "I-93: Ramp KK-WB-Boston-93N x20 to 90W d",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.047,
+          42.1336
+        ]
+      },
+      "properties": {
+        "id": "9631",
+        "view_id": "2471408753",
+        "uri": "camera/9631",
+        "name": "I-90: I-90-EB-MM79.2-Sturbridge-0.7 mi before I-84 merge",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63851,
+          42.34069
+        ]
+      },
+      "properties": {
+        "id": "10656",
+        "view_id": "2444759564",
+        "uri": "camera/10656",
+        "name": "I-91: I-91-SB-MM25.8-Northampton-Ex 26 Rts 5 & 10",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05732,
+          42.34892
+        ]
+      },
+      "properties": {
+        "id": "10659",
+        "view_id": "3826988170",
+        "uri": "camera/10659",
+        "name": "I-93: I-93-NB-MM16.5-Boston-over Broadway Br",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59264,
+          41.75241
+        ]
+      },
+      "properties": {
+        "id": "10660",
+        "view_id": "1024828638",
+        "uri": "camera/10660",
+        "name": "RT-25: Rt28-SB-MM63.4-Bourne-@ merge north of Rt 6",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11808,
+          41.71313
+        ]
+      },
+      "properties": {
+        "id": "10661",
+        "view_id": "4192768351",
+        "uri": "camera/10661",
+        "name": "RT-24: Rt24-SB-MM5.4-Fall River-Ex 5 Rt 6",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79731,
+          42.25416
+        ]
+      },
+      "properties": {
+        "id": "10662",
+        "view_id": "943914127",
+        "uri": "camera/10662",
+        "name": "RT-122A: 290-MM017.4WB-Worcester-Ex 17 Rt 122A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58127,
+          42.16957
+        ]
+      },
+      "properties": {
+        "id": "10663",
+        "view_id": "10915819",
+        "uri": "camera/10663",
+        "name": "I-90: I-90-WB-MM49.0-Chicopee-@ Ex 49 Rt 33",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89314,
+          42.16599
+        ]
+      },
+      "properties": {
+        "id": "10664",
+        "view_id": "1359828126",
+        "uri": "camera/10664",
+        "name": "RT-228: Rt3-ME-MM34.5-Rockland-Ex 35 Hingham St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25224,
+          42.51124
+        ]
+      },
+      "properties": {
+        "id": "10665",
+        "view_id": "1613378304",
+        "uri": "camera/10665",
+        "name": "US 3: Rt3-NB-MM74.5-Billerica-2.5 mi before Ex73 Concord",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.48259,
+          42.29408
+        ]
+      },
+      "properties": {
+        "id": "10669",
+        "view_id": "3864061330",
+        "uri": "camera/10669",
+        "name": "I-90: 090-MM111.2EB-Framingham-at Exit 111 Rt 9",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61594,
+          42.10732
+        ]
+      },
+      "properties": {
+        "id": "10670",
+        "view_id": "4087658504",
+        "uri": "camera/10670",
+        "name": "US 20: Rt5-SB-MM7.2-W. Springfield-Rotary/Bridge at Rt 20",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58735,
+          41.76851
+        ]
+      },
+      "properties": {
+        "id": "10671",
+        "view_id": "243807981",
+        "uri": "camera/10671",
+        "name": "RT-25: 025-MM008.6-WB-Bourne-prior to Bouredale Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.50775,
+          42.52049
+        ]
+      },
+      "properties": {
+        "id": "10672",
+        "view_id": "4175835869",
+        "uri": "camera/10672",
+        "name": "RT-2: I-495-NB-MM77.6-Littleton-Ex 78 Rt 2 EB",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09176,
+          42.80082
+        ]
+      },
+      "properties": {
+        "id": "10674",
+        "view_id": "2025047310",
+        "uri": "camera/10674",
+        "name": "I-495: I-495-SB-MM109.0-Haverhill-Ex 109 Rt 125 Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7929,
+          42.28996
+        ]
+      },
+      "properties": {
+        "id": "10676",
+        "view_id": "3483023906",
+        "uri": "camera/10676",
+        "name": "I-290: 290-MM020.1WB-Worcester-Ex 22 I-290",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.71766,
+          41.98816
+        ]
+      },
+      "properties": {
+        "id": "10678",
+        "view_id": "1849108460",
+        "uri": "camera/10678",
+        "name": "RT-3A: Rt3-SB-MM17.8-Kingston-Ex 18 Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55393,
+          41.81335
+        ]
+      },
+      "properties": {
+        "id": "10680",
+        "view_id": "3650919340",
+        "uri": "camera/10680",
+        "name": "RT-3A: Rt3-SB-MM2.5-Plymouth-Ex 3 Herring Pond Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79365,
+          42.25784
+        ]
+      },
+      "properties": {
+        "id": "10681",
+        "view_id": "2143553267",
+        "uri": "camera/10681",
+        "name": "I-290: 290-MM017.8EB-Worcester-Ex 18 Rt 122 Grafton St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24092,
+          42.03225
+        ]
+      },
+      "properties": {
+        "id": "10682",
+        "view_id": "2771155438",
+        "uri": "camera/10682",
+        "name": "RT-106: 495-MM040.9ME-82-Franklin-Ex 41 King St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.20488,
+          42.18019
+        ]
+      },
+      "properties": {
+        "id": "10684",
+        "view_id": "1708111169",
+        "uri": "camera/10684",
+        "name": "I-90: I-90-WB-Warren-@ Maint.  Facility [TZ-5]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.59182,
+          42.43068
+        ]
+      },
+      "properties": {
+        "id": "10685",
+        "view_id": "1699367850",
+        "uri": "camera/10685",
+        "name": "RT-117: I-495-NB-MM70.2-Bolton-Ex 70 Rt 117",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07006,
+          42.37365
+        ]
+      },
+      "properties": {
+        "id": "10687",
+        "view_id": "646082858",
+        "uri": "camera/10687",
+        "name": "I-93: I-93-SB-MM18.8-Boston-Zakim past merge",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54285,
+          42.67113
+        ]
+      },
+      "properties": {
+        "id": "10688",
+        "view_id": "248391213",
+        "uri": "camera/10688",
+        "name": "I-91: I-91-ME-MM50.4-Bernardston-Ex 50 Rt 10",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56762,
+          42.28864
+        ]
+      },
+      "properties": {
+        "id": "10690",
+        "view_id": "2999665374",
+        "uri": "camera/10690",
+        "name": "RT-9: I-495-SB-MM59.3-Westboro-Ex 59 Rt 9",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06493,
+          42.33692
+        ]
+      },
+      "properties": {
+        "id": "10691",
+        "view_id": "3819568769",
+        "uri": "camera/10691",
+        "name": "I-93: Ramp K-NB-Boston-93N x20 a",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.75127,
+          42.29474
+        ]
+      },
+      "properties": {
+        "id": "10692",
+        "view_id": "73393081",
+        "uri": "camera/10692",
+        "name": "I-290: 290-MM022.3EB-Shrewsbury-Ex 25 Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0651,
+          42.33574
+        ]
+      },
+      "properties": {
+        "id": "10693",
+        "view_id": "754467541",
+        "uri": "camera/10693",
+        "name": "I-93: I-93-ME-MM15.5-Boston-Ex 15B",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58613,
+          41.7418
+        ]
+      },
+      "properties": {
+        "id": "10694",
+        "view_id": "2162145708",
+        "uri": "camera/10694",
+        "name": "RT-28: Rt28-NB-MM62.6-Bourne-@ Bourne Rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13731,
+          42.35717
+        ]
+      },
+      "properties": {
+        "id": "10698",
+        "view_id": "2555200148",
+        "uri": "camera/10698",
+        "name": "I-90: I-90-WB-MM130.1-Brighton-East of Everett St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27629,
+          42.53239
+        ]
+      },
+      "properties": {
+        "id": "10699",
+        "view_id": "993320596",
+        "uri": "camera/10699",
+        "name": "US 3: Rt3-SB-MM76.4-Billerica-Ex 76 Concord Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.34488,
+          42.60507
+        ]
+      },
+      "properties": {
+        "id": "10702",
+        "view_id": "2979926478",
+        "uri": "camera/10702",
+        "name": "I-495: I-495-SB-MM87.7-Chelmsford-Rt4 North St, past Ex88",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.97409,
+          42.20064
+        ]
+      },
+      "properties": {
+        "id": "10704",
+        "view_id": "1039466333",
+        "uri": "camera/10704",
+        "name": "RT-3: Rt3-NB-MM39.4-Braintree-1 mi before Ex 40 Union St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93237,
+          42.18768
+        ]
+      },
+      "properties": {
+        "id": "10707",
+        "view_id": "1179345921",
+        "uri": "camera/10707",
+        "name": "RT-3: Rt3-NB-MM14.8-Plymouth-Ex 15 Samoset St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07661,
+          42.38059
+        ]
+      },
+      "properties": {
+        "id": "10710",
+        "view_id": "1036855402",
+        "uri": "camera/10710",
+        "name": "I-93: I-93-NB-MM19.4-Charlestown-before Ex 20",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36769,
+          41.95039
+        ]
+      },
+      "properties": {
+        "id": "10712",
+        "view_id": "1522675790",
+        "uri": "camera/10712",
+        "name": "I-295: I-295-NB-MM0.6-N. Attleboro-Ex 2 Rt1",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06934,
+          42.37324
+        ]
+      },
+      "properties": {
+        "id": "4570",
+        "view_id": "2437061161",
+        "uri": "camera/4570",
+        "name": "I-93: Ramp SN-NB-Charlestown-Storrow to 93N c",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.95813,
+          41.89843
+        ]
+      },
+      "properties": {
+        "id": "10717",
+        "view_id": "1041048321",
+        "uri": "camera/10717",
+        "name": "I-495: I-495-NB-MM14.3-Middleboro-before Ex 15",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06455,
+          42.33436
+        ]
+      },
+      "properties": {
+        "id": "7645",
+        "view_id": "2559893557",
+        "uri": "camera/7645",
+        "name": "I-93: I-93-ME-MM15.4-Boston-before Southampton St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.04123,
+          42.13533
+        ]
+      },
+      "properties": {
+        "id": "10718",
+        "view_id": "3651649839",
+        "uri": "camera/10718",
+        "name": "I-90: I-90-EB-MM79.4-Charlton-@ MSP C10 East side",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.26291,
+          42.34395
+        ]
+      },
+      "properties": {
+        "id": "10722",
+        "view_id": "189479904",
+        "uri": "camera/10722",
+        "name": "I-95: I-95-SB-MM39.4-Weston-before Ex 39A South Av",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11449,
+          42.7833
+        ]
+      },
+      "properties": {
+        "id": "10726",
+        "view_id": "292539800",
+        "uri": "camera/10726",
+        "name": "I-495: I-495-NB-MM106.7-Haverhill-Ex 107 Rts 110/113",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07917,
+          42.20256
+        ]
+      },
+      "properties": {
+        "id": "10727",
+        "view_id": "2076985517",
+        "uri": "camera/10727",
+        "name": "I-93: I-93-NB-Randolph-Exit 4 Rt 24",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15053,
+          42.57503
+        ]
+      },
+      "properties": {
+        "id": "10728",
+        "view_id": "2773179523",
+        "uri": "camera/10728",
+        "name": "I-93: I-93-SB-MM33.6-Wilmington-Ex 34 Rt 62",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0847,
+          42.39281
+        ]
+      },
+      "properties": {
+        "id": "10731",
+        "view_id": "1490308479",
+        "uri": "camera/10731",
+        "name": "I-93: I-93-SB-MM20.3-Somerville-before Ex 20",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58877,
+          42.08064
+        ]
+      },
+      "properties": {
+        "id": "10734",
+        "view_id": "798301439",
+        "uri": "camera/10734",
+        "name": "US 5: Rt5-SB-MM4.7-Agawam-Rt 57, South End Rotary Rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06132,
+          42.34356
+        ]
+      },
+      "properties": {
+        "id": "10736",
+        "view_id": "3329972197",
+        "uri": "camera/10736",
+        "name": "I-93: RoadFRNB-NB-MM0.9-Boston-FRNB-650",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.72573,
+          42.1433
+        ]
+      },
+      "properties": {
+        "id": "9714",
+        "view_id": "3897296654",
+        "uri": "camera/9714",
+        "name": "I-90: I-90-WB-MM40.9-Westfield-@ MSP Barracks [TZ-3]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.84669,
+          42.19059
+        ]
+      },
+      "properties": {
+        "id": "10739",
+        "view_id": "544818227",
+        "uri": "camera/10739",
+        "name": "I-395: 290-MM012.3EB-Auburn-before Ex 12 Rte 12 Southbridge St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62129,
+          42.58519
+        ]
+      },
+      "properties": {
+        "id": "7667",
+        "view_id": "4002410049",
+        "uri": "camera/7667",
+        "name": "I-91: I-91-ME-MM43.0-Greenfield-Ex 43 Rts 2 & 2A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22465,
+          42.30289
+        ]
+      },
+      "properties": {
+        "id": "10740",
+        "view_id": "3080924382",
+        "uri": "camera/10740",
+        "name": "I-95: I-95-SB-MM35.8-Needham-Ex 35 Highland Ave",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4193,
+          42.15992
+        ]
+      },
+      "properties": {
+        "id": "10742",
+        "view_id": "3395553015",
+        "uri": "camera/10742",
+        "name": "I-90: I-90-EB-MM57.7-Ludlow-EB gantry [TZ-4]",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05399,
+          42.3222
+        ]
+      },
+      "properties": {
+        "id": "10743",
+        "view_id": "2714606618",
+        "uri": "camera/10743",
+        "name": "I-93: I-93-NB-MM14.4-Boston-Ex 14 Columbia",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62081,
+          42.33354
+        ]
+      },
+      "properties": {
+        "id": "10744",
+        "view_id": "2910492758",
+        "uri": "camera/10744",
+        "name": "RT-9: Rt9-WB-Northampton-@ Damon Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.49347,
+          42.53988
+        ]
+      },
+      "properties": {
+        "id": "10745",
+        "view_id": "3039046024",
+        "uri": "camera/10745",
+        "name": "RT-2A: I-495-SB-MM79.2-Littleton-Ex 79 King St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81588,
+          42.2382
+        ]
+      },
+      "properties": {
+        "id": "10747",
+        "view_id": "1084401281",
+        "uri": "camera/10747",
+        "name": "I-290: 290-MM015.8EB-Worcester-Ex 15 College Sq.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79447,
+          42.27186
+        ]
+      },
+      "properties": {
+        "id": "10750",
+        "view_id": "427197537",
+        "uri": "camera/10750",
+        "name": "RT-9: 290-MM018.8EB-Worcester-Ex 21 Rt 9 Belmont St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.92302,
+          41.65468
+        ]
+      },
+      "properties": {
+        "id": "10753",
+        "view_id": "1956170782",
+        "uri": "camera/10753",
+        "name": "I-195: I-195-EB-MM25.4-New Bedford-@ Ex 27B Washburn St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7191,
+          42.32138
+        ]
+      },
+      "properties": {
+        "id": "10756",
+        "view_id": "1204043907",
+        "uri": "camera/10756",
+        "name": "RT-140: 290-MM024.8ME-Shrewsbury-Ex 26 Rt 140 Boylston St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07454,
+          42.37695
+        ]
+      },
+      "properties": {
+        "id": "7685",
+        "view_id": "1002931526",
+        "uri": "camera/7685",
+        "name": "I-93: Ramp SN-NB-Charlestown-Storrow to 93N d",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27012,
+          42.35932
+        ]
+      },
+      "properties": {
+        "id": "10758",
+        "view_id": "3107426112",
+        "uri": "camera/10758",
+        "name": "I-95: I-95-SB-MM40.6-Weston-Ex 39B Rt 30",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74104,
+          42.2225
+        ]
+      },
+      "properties": {
+        "id": "10759",
+        "view_id": "3501024835",
+        "uri": "camera/10759",
+        "name": "I-90: I-90-WB-MM96.3-Millbury-Ex 96 Rt 122",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02314,
+          42.23486
+        ]
+      },
+      "properties": {
+        "id": "10761",
+        "view_id": "158251860",
+        "uri": "camera/10761",
+        "name": "I-93: I-93-NB-Quincy-b/w x7 & x8",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05944,
+          42.34859
+        ]
+      },
+      "properties": {
+        "id": "10762",
+        "view_id": "3599489196",
+        "uri": "camera/10762",
+        "name": "I-93 HOV: Ramp KK-WB-Boston-93N x20 to 90W b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07993,
+          42.3885
+        ]
+      },
+      "properties": {
+        "id": "10763",
+        "view_id": "2709454432",
+        "uri": "camera/10763",
+        "name": "I-93: I-93-SB-MM20.0-Somerville-Ex 18 Storrow Dr",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63641,
+          42.3609
+        ]
+      },
+      "properties": {
+        "id": "4622",
+        "view_id": "1631982196",
+        "uri": "camera/4622",
+        "name": "I-91: I-91-NB-MM27.3-Hatfield-Ex 27 Rts 5 & 10",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25828,
+          42.44032
+        ]
+      },
+      "properties": {
+        "id": "10766",
+        "view_id": "141399148",
+        "uri": "camera/10766",
+        "name": "I-95: I-95-SB-Lexington-Exit 30 Rt 2A",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0259,
+          42.36893
+        ]
+      },
+      "properties": {
+        "id": "10771",
+        "view_id": "3099589832",
+        "uri": "camera/10771",
+        "name": "I-90: RampET-Logan-MM0.1-E. Boston-Logan to 90W c",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98187,
+          42.53295
+        ]
+      },
+      "properties": {
+        "id": "10773",
+        "view_id": "2033817921",
+        "uri": "camera/10773",
+        "name": "I-95: I-95-SB-MM65.3-Peabody-before Ex 64 Rt 128",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9829,
+          41.7989
+        ]
+      },
+      "properties": {
+        "id": "10774",
+        "view_id": "3006061238",
+        "uri": "camera/10774",
+        "name": "US 6: Rt6-WB-MM91.0-Eastham-@ Orleans Rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.42671,
+          42.08983
+        ]
+      },
+      "properties": {
+        "id": "10775",
+        "view_id": "2980667525",
+        "uri": "camera/10775",
+        "name": "I-495: I-495-NB-MM43.2-Franklin-Ex 43 Rt 140",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58244,
+          42.07517
+        ]
+      },
+      "properties": {
+        "id": "10777",
+        "view_id": "2382928775",
+        "uri": "camera/10777",
+        "name": "I-91: I-91-SB-MM3.6-Springfield-Ex 1 Columbus Ramp",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.47871,
+          42.54967
+        ]
+      },
+      "properties": {
+        "id": "10778",
+        "view_id": "2046656228",
+        "uri": "camera/10778",
+        "name": "RT-119: I-495-SB-MM80.2-Littleton-Ex 80 Rt 119",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21644,
+          42.47776
+        ]
+      },
+      "properties": {
+        "id": "10780",
+        "view_id": "884781081",
+        "uri": "camera/10780",
+        "name": "US 3: I-95-SB-Burlington-Exit 32 Rt 3",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73603,
+          42.14505
+        ]
+      },
+      "properties": {
+        "id": "10782",
+        "view_id": "2656788017",
+        "uri": "camera/10782",
+        "name": "I-90: I-90-EB-MM40.4-Westfield-Ex 41 Rt 10",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18214,
+          42.2292
+        ]
+      },
+      "properties": {
+        "id": "10785",
+        "view_id": "2648099787",
+        "uri": "camera/10785",
+        "name": "I-95: I-95-ME-MM29.3-Dedham-Ex 29 Rt 1",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63821,
+          42.19982
+        ]
+      },
+      "properties": {
+        "id": "10787",
+        "view_id": "1398497352",
+        "uri": "camera/10787",
+        "name": "I-91: I-91-SB-MM14.2-Holyoke-Ex 14 Rt 202",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6279,
+          42.39946
+        ]
+      },
+      "properties": {
+        "id": "10789",
+        "view_id": "2927638068",
+        "uri": "camera/10789",
+        "name": "I-91: I-91-NB-MM30.0-Hatfield-Ex 30 Rts 5 & 10",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07007,
+          42.37366
+        ]
+      },
+      "properties": {
+        "id": "10790",
+        "view_id": "1761915577",
+        "uri": "camera/10790",
+        "name": "I-93: I-93-NB-MM18.8-Charlestown-before Ex 19 to Tobin",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05872,
+          42.3469
+        ]
+      },
+      "properties": {
+        "id": "10792",
+        "view_id": "1763454601",
+        "uri": "camera/10792",
+        "name": "I-93: Ramp KK-WB-Boston-93N x20 to 90W e",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56617,
+          42.29064
+        ]
+      },
+      "properties": {
+        "id": "10794",
+        "view_id": "2524347210",
+        "uri": "camera/10794",
+        "name": "I-495: I-495-NB-MM59.6-Westboro-Ex 59 Rt 9",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17188,
+          42.67481
+        ]
+      },
+      "properties": {
+        "id": "10796",
+        "view_id": "2168733172",
+        "uri": "camera/10796",
+        "name": "I-495: I-495-SB-MM98.4-Andover-1.3 mi before Ex 97 I-93",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3203,
+          42.33251
+        ]
+      },
+      "properties": {
+        "id": "10797",
+        "view_id": "3344629463",
+        "uri": "camera/10797",
+        "name": "I-90: I-90-WB-MM120.3-Weston-before Weston Toll Gantry",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79692,
+          42.27637
+        ]
+      },
+      "properties": {
+        "id": "10798",
+        "view_id": "3849908568",
+        "uri": "camera/10798",
+        "name": "I-290: 290-MM019.1WB-Worcester-Ex 21 Rt 70 Lincoln St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06356,
+          42.3399
+        ]
+      },
+      "properties": {
+        "id": "10799",
+        "view_id": "605409732",
+        "uri": "camera/10799",
+        "name": "I-93 HOV: I-93-SB-MM15.8-Boston-before Hegarty Br",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15749,
+          42.58413
+        ]
+      },
+      "properties": {
+        "id": "10800",
+        "view_id": "204799623",
+        "uri": "camera/10800",
+        "name": "I-93: I-93-NB-MM34.6-Wilmington-South of Ex 35 Rt 125 Br",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11923,
+          41.73886
+        ]
+      },
+      "properties": {
+        "id": "10801",
+        "view_id": "1124897976",
+        "uri": "camera/10801",
+        "name": "RT-24: Rt24-NB-MM7.2-Fall River-1mi before Ex8 Airport Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63353,
+          42.21876
+        ]
+      },
+      "properties": {
+        "id": "10802",
+        "view_id": "3396723274",
+        "uri": "camera/10802",
+        "name": "I-91: I-91-SB-MM15.6-Holyoke-Ex 15 Rt 141",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13737,
+          42.72493
+        ]
+      },
+      "properties": {
+        "id": "10803",
+        "view_id": "4064711410",
+        "uri": "camera/10803",
+        "name": "I-495: I-495-NB-MM102.9-Methuen-before Ex 46 Rt 110",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17747,
+          42.49587
+        ]
+      },
+      "properties": {
+        "id": "10804",
+        "view_id": "2481680105",
+        "uri": "camera/10804",
+        "name": "I-95: I-95-NB-MM52.7-Burlington-Just past Ex 52 Winn St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06626,
+          42.36656
+        ]
+      },
+      "properties": {
+        "id": "10805",
+        "view_id": "2347088312",
+        "uri": "camera/10805",
+        "name": "RT-3: RampL-CN-NB-MM0.1-Boston-Leverett to 93N a",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23376,
+          42.31689
+        ]
+      },
+      "properties": {
+        "id": "10806",
+        "view_id": "1475845816",
+        "uri": "camera/10806",
+        "name": "I-95: I-095-NB-Wellesley-Ex 20 Rt 9",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02564,
+          42.36827
+        ]
+      },
+      "properties": {
+        "id": "10807",
+        "view_id": "228841103",
+        "uri": "camera/10807",
+        "name": "I-90: RampSA-Logan-MM0.1-E. Boston-Harborside to ARR",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06334,
+          42.34003
+        ]
+      },
+      "properties": {
+        "id": "9783",
+        "view_id": "937941258",
+        "uri": "camera/9783",
+        "name": "I-93: RoadSBHR-E&W-MM0.4-S. Boston-@ Cabot Yard",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16942,
+          42.22281
+        ]
+      },
+      "properties": {
+        "id": "10808",
+        "view_id": "2197651272",
+        "uri": "camera/10808",
+        "name": "I-95: I-95-NB-MM28.6-Westwood-past Ex 28 East St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05944,
+          42.34874
+        ]
+      },
+      "properties": {
+        "id": "10809",
+        "view_id": "786733735",
+        "uri": "camera/10809",
+        "name": "I-93 HOV: RoadSSCN-NB-MM0.1-S. Boston-S. Sta. Conn b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06865,
+          42.37241
+        ]
+      },
+      "properties": {
+        "id": "10810",
+        "view_id": "880221145",
+        "uri": "camera/10810",
+        "name": "US 1: RampCT-NB-MM0.1-Charlestown-93N x19 a",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00497,
+          42.22607
+        ]
+      },
+      "properties": {
+        "id": "10811",
+        "view_id": "1473896224",
+        "uri": "camera/10811",
+        "name": "RT-3: Rt3-NB-MM42.0-Braintree-Ex 42 Burgin Pkwy",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22406,
+          42.09282
+        ]
+      },
+      "properties": {
+        "id": "10812",
+        "view_id": "3072302765",
+        "uri": "camera/10812",
+        "name": "I-95: I-95-SB-MM16.6-Sharon-Ex 17 S. Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.79763,
+          42.28649
+        ]
+      },
+      "properties": {
+        "id": "10813",
+        "view_id": "333778897",
+        "uri": "camera/10813",
+        "name": "I-290: I-290-WB-MM7.8-Worcester-at I-190SB Onramp",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96345,
+          42.59608
+        ]
+      },
+      "properties": {
+        "id": "10814",
+        "view_id": "3734416447",
+        "uri": "camera/10814",
+        "name": "I-95: I-95-NB-MM70.0-Danvers-north of Rt 1 SB Br",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58685,
+          41.74375
+        ]
+      },
+      "properties": {
+        "id": "10815",
+        "view_id": "3436893763",
+        "uri": "camera/10815",
+        "name": "RT-28: Rt28-NB-MM62.7-Bourne-north side of Bourne Rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09766,
+          42.50497
+        ]
+      },
+      "properties": {
+        "id": "10816",
+        "view_id": "814008623",
+        "uri": "camera/10816",
+        "name": "I-95: I-95-NB-MM56.9-Wakefield-0.3 mi past Ex 56 Rt 28",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02593,
+          42.369
+        ]
+      },
+      "properties": {
+        "id": "10817",
+        "view_id": "301506226",
+        "uri": "camera/10817",
+        "name": "I-90: RampUA/D-Logan-MM0.1-E. Boston-Upper ARR/DEP",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21095,
+          42.00014
+        ]
+      },
+      "properties": {
+        "id": "10818",
+        "view_id": "866492719",
+        "uri": "camera/10818",
+        "name": "RT-140: I-495-SB-MM30.0-Mansfield-Ex 30 Rt 140 Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27242,
+          42.62792
+        ]
+      },
+      "properties": {
+        "id": "10819",
+        "view_id": "337939736",
+        "uri": "camera/10819",
+        "name": "RT-38: I-495-ME-MM91.2-Lowell-Ex 91 Woburn St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65638,
+          41.93574
+        ]
+      },
+      "properties": {
+        "id": "10820",
+        "view_id": "1242939884",
+        "uri": "camera/10820",
+        "name": "RT-3: Rt3-NB-MM12.8-Plymouth-Ex 13 Long Pond Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25083,
+          42.42373
+        ]
+      },
+      "properties": {
+        "id": "10821",
+        "view_id": "884284041",
+        "uri": "camera/10821",
+        "name": "RT-2: Rt2-EB-MM129.0-Lexington-Ex 128 Spring St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15099,
+          42.21374
+        ]
+      },
+      "properties": {
+        "id": "10822",
+        "view_id": "1284532921",
+        "uri": "camera/10822",
+        "name": "I-95: I-95-SB-MM27.4-Dedham-Ex 27 University Ave",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06601,
+          42.36975
+        ]
+      },
+      "properties": {
+        "id": "10824",
+        "view_id": "2121276012",
+        "uri": "camera/10824",
+        "name": "US 1: Ramp TC-SB-Charlestown-Tobin to 93S/Storrow b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05422,
+          42.13125
+        ]
+      },
+      "properties": {
+        "id": "10825",
+        "view_id": "2059774323",
+        "uri": "camera/10825",
+        "name": "I-90: I-90-EB-MM78.8-Sturbridge-end of Ex 78 I-84 onramp",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01792,
+          42.4334
+        ]
+      },
+      "properties": {
+        "id": "10826",
+        "view_id": "1119350477",
+        "uri": "camera/10826",
+        "name": "US 1: Rt1-NB-MM53.5-Revere-North of Rt 60",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.83703,
+          42.21045
+        ]
+      },
+      "properties": {
+        "id": "10827",
+        "view_id": "1855773816",
+        "uri": "camera/10827",
+        "name": "I-290: I-290-WB-MM1.5-Auburn-before Ex 13 Auburn St.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.26864,
+          42.34162
+        ]
+      },
+      "properties": {
+        "id": "10828",
+        "view_id": "2198372449",
+        "uri": "camera/10828",
+        "name": "RT-30: I-90-EB-Weston-Ex 15 East Merge",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2067,
+          42.26467
+        ]
+      },
+      "properties": {
+        "id": "10830",
+        "view_id": "2241547893",
+        "uri": "camera/10830",
+        "name": "RT-135: I-95-SB-MM32.4-Dedham-before Ex 32 Rt 135",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04804,
+          42.34765
+        ]
+      },
+      "properties": {
+        "id": "10831",
+        "view_id": "1948788612",
+        "uri": "camera/10831",
+        "name": "I-90 HOV: Road SBHR-E & W-S. Boston-@ W Service Rd b",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1364,
+          41.68494
+        ]
+      },
+      "properties": {
+        "id": "10832",
+        "view_id": "1943150419",
+        "uri": "camera/10832",
+        "name": "I-195: I-195-EB-MM13.8-Fall River-Ex 14A Rt 24",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02636,
+          41.95071
+        ]
+      },
+      "properties": {
+        "id": "10833",
+        "view_id": "4273701358",
+        "uri": "camera/10833",
+        "name": "I-495: Rt24-NB-MM23.1-Bridgewater-Ex 22B I-495 NB",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57139,
+          41.76467
+        ]
+      },
+      "properties": {
+        "id": "10834",
+        "view_id": "2858726411",
+        "uri": "camera/10834",
+        "name": "US 6: Rt6-E&W-MM52.2-Bourne-@ Egde Hill Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76817,
+          42.10938
+        ]
+      },
+      "properties": {
+        "id": "10835",
+        "view_id": "3301330601",
+        "uri": "camera/10835",
+        "name": "RT-3: Rt3-NB-MM26.9-Pembroke-Ex 27 Rt 139",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25596,
+          42.42647
+        ]
+      },
+      "properties": {
+        "id": "10836",
+        "view_id": "2483130351",
+        "uri": "camera/10836",
+        "name": "RT-2: Rt2-WB-Lexington-@ Exit 52B I-95",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25902,
+          42.33727
+        ]
+      },
+      "properties": {
+        "id": "10837",
+        "view_id": "1241261226",
+        "uri": "camera/10837",
+        "name": "I-95: I-95-SB-MM38.9-Newton-after Ex 39A Rt 30",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5877,
+          41.45783
+        ]
+      },
+      "properties": {
+        "id": "10838",
+        "view_id": "3226185844",
+        "uri": "camera/10838",
+        "name": "Unknown: BeachRoad-MM0A-EB",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06516,
+          42.36983
+        ]
+      },
+      "properties": {
+        "id": "10839",
+        "view_id": "2201284082",
+        "uri": "camera/10839",
+        "name": "US 1: RampSN-SB-MM0.6-Charlestown-93S x18 d",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06028,
+          42.34597
+        ]
+      },
+      "properties": {
+        "id": "10840",
+        "view_id": "3309824548",
+        "uri": "camera/10840",
+        "name": "I-93 HOV: RampXX-EB-MM0.1-Boston-Kneeland to HOV-E c",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06702,
+          42.37186
+        ]
+      },
+      "properties": {
+        "id": "10842",
+        "view_id": "22797028",
+        "uri": "camera/10842",
+        "name": "I-93: I-93-NB-MM18.6-Charlestown-@ Zakim South Twr",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06115,
+          42.34413
+        ]
+      },
+      "properties": {
+        "id": "10843",
+        "view_id": "858146353",
+        "uri": "camera/10843",
+        "name": "I-93 HOV: RampXXE-EB-MM0.1-Boston-93N to HOV-E",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21762,
+          42.29493
+        ]
+      },
+      "properties": {
+        "id": "10844",
+        "view_id": "220237355",
+        "uri": "camera/10844",
+        "name": "I-95: I-095-NB-Needham-Ex 19A Kendrick St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.82278,
+          42.23302
+        ]
+      },
+      "properties": {
+        "id": "10845",
+        "view_id": "1955860615",
+        "uri": "camera/10845",
+        "name": "I-290: 290-MM015.3WB-Worcester-Ex 14 Rte 12 Hope Ave.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33234,
+          42.17214
+        ]
+      },
+      "properties": {
+        "id": "10847",
+        "view_id": "1928931661",
+        "uri": "camera/10847",
+        "name": "I-90: I-90-EB-MM62.6-Palmer-Ex 63 Rt 32",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.60679,
+          42.39488
+        ]
+      },
+      "properties": {
+        "id": "10849",
+        "view_id": "180040583",
+        "uri": "camera/10849",
+        "name": "RT-62: I-495-NB-MM67.3-Berlin-Ex 67 Rt 62",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63946,
+          42.14352
+        ]
+      },
+      "properties": {
+        "id": "10850",
+        "view_id": "2116536580",
+        "uri": "camera/10850",
+        "name": "I-91: I-91-ME-MM10.1-W. Springfield-0.9 mi N. of Ex 10B",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12215,
+          42.76076
+        ]
+      },
+      "properties": {
+        "id": "10852",
+        "view_id": "1608316455",
+        "uri": "camera/10852",
+        "name": "I-495: I-495-NB-MM105.7-Haverhill-Ex 106 Rt 125 Ward Hill",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02376,
+          42.45723
+        ]
+      },
+      "properties": {
+        "id": "10853",
+        "view_id": "922276804",
+        "uri": "camera/10853",
+        "name": "US 1: Rt1-SB-MM55.5-Saugus-past Essex St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.49036,
+          41.73043
+        ]
+      },
+      "properties": {
+        "id": "10854",
+        "view_id": "1227316172",
+        "uri": "camera/10854",
+        "name": "RT-130: Rt6-WB-MM59.2-Sandwich-rest area before Ex59 Rt130",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.426,
+          42.56882
+        ]
+      },
+      "properties": {
+        "id": "10856",
+        "view_id": "216174097",
+        "uri": "camera/10856",
+        "name": "I-495: I-495-SB-MM83.3-Westford-Ex 83 Boston Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07965,
+          42.52541
+        ]
+      },
+      "properties": {
+        "id": "10858",
+        "view_id": "3946092847",
+        "uri": "camera/10858",
+        "name": "I-95: I-95-SB-MM58.6-Wakefield-@ Ex 58 Rt 129 rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76138,
+          42.293
+        ]
+      },
+      "properties": {
+        "id": "10859",
+        "view_id": "2361410058",
+        "uri": "camera/10859",
+        "name": "I-290: 290-MM021.8EB-Worcester-Ex 24 Plantation St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6223,
+          42.30869
+        ]
+      },
+      "properties": {
+        "id": "10860",
+        "view_id": "3333265580",
+        "uri": "camera/10860",
+        "name": "I-91: I-91-ME-MM22.9-Northampton-North of Ex 23 Rt 5",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.60754,
+          42.39451
+        ]
+      },
+      "properties": {
+        "id": "10861",
+        "view_id": "3213733410",
+        "uri": "camera/10861",
+        "name": "RT-62: I-495-SB-MM67.2-Berlin-Ex 67 Rt 62",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13037,
+          41.68212
+        ]
+      },
+      "properties": {
+        "id": "10862",
+        "view_id": "3701363217",
+        "uri": "camera/10862",
+        "name": "I-195: I-195-EB-MM14.2-Fall River-before Ex 14B Rt 24",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.85346,
+          42.1923
+        ]
+      },
+      "properties": {
+        "id": "10863",
+        "view_id": "4045862295",
+        "uri": "camera/10863",
+        "name": "I-90: I-90-EB-MM90.0-Auburn-Ex 90 I-290, I-395, Rt 12",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63885,
+          42.15367
+        ]
+      },
+      "properties": {
+        "id": "10864",
+        "view_id": "1049105722",
+        "uri": "camera/10864",
+        "name": "I-90: I-90-WB-MM45.7-W. Springfield-Ex 45 I-91 & Rt5",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58812,
+          42.11626
+        ]
+      },
+      "properties": {
+        "id": "10865",
+        "view_id": "1524641002",
+        "uri": "camera/10865",
+        "name": "I-291: I-291-EB-MM1.4-Springfield-Ex 3 Armory St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56563,
+          42.3071
+        ]
+      },
+      "properties": {
+        "id": "10866",
+        "view_id": "1463959566",
+        "uri": "camera/10866",
+        "name": "RT-30: I-495-ME-MM60.8-Southboro-1.3 mi N. of Ex 59 Rt 9",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05824,
+          42.34748
+        ]
+      },
+      "properties": {
+        "id": "10867",
+        "view_id": "316577800",
+        "uri": "camera/10867",
+        "name": "I-93: RampCC-EB-MM0.2-Boston-90E Ex 134C to 93S d",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55028,
+          41.77973
+        ]
+      },
+      "properties": {
+        "id": "10868",
+        "view_id": "1334382158",
+        "uri": "camera/10868",
+        "name": "US 6: Rt6-EB-MM53.7-Bourne-@ Brigantine Passage Dr",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.46959,
+          42.1682
+        ]
+      },
+      "properties": {
+        "id": "10869",
+        "view_id": "916339752",
+        "uri": "camera/10869",
+        "name": "I-90: I-90-EB-MM54.9-Ludlow-Ex 54 Rt 21",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62182,
+          42.43248
+        ]
+      },
+      "properties": {
+        "id": "10870",
+        "view_id": "1243883952",
+        "uri": "camera/10870",
+        "name": "I-91: I-91-NB-MM32.3-Whately-2.2 mi before Ex35 Rts 5&10",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22402,
+          42.09273
+        ]
+      },
+      "properties": {
+        "id": "10871",
+        "view_id": "374664750",
+        "uri": "camera/10871",
+        "name": "I-95: I-95-NB-MM16.6-Sharon-Ex 17, S. Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46667,
+          42.1142
+        ]
+      },
+      "properties": {
+        "id": "10872",
+        "view_id": "4082569533",
+        "uri": "camera/10872",
+        "name": "RT-126: 495-MM045.8SB-Bellingham-Ex 46 Rt 126",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32585,
+          42.61621
+        ]
+      },
+      "properties": {
+        "id": "10873",
+        "view_id": "1572892946",
+        "uri": "camera/10873",
+        "name": "RT-110: LowellConn-SB-MM0.8-Chelmsford-Ex 3 Industrial Ave",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3549,
+          42.62036
+        ]
+      },
+      "properties": {
+        "id": "10874",
+        "view_id": "4043615276",
+        "uri": "camera/10874",
+        "name": "US 3: Rt3-SB-MM84.2-Chelmsford-0.4 mi after Ex 84 Rt 4",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05966,
+          42.34816
+        ]
+      },
+      "properties": {
+        "id": "10875",
+        "view_id": "3650478150",
+        "uri": "camera/10875",
+        "name": "I-93 HOV: RoadALBS-SB-MM0.1-Boston-by South Sta Term",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.38484,
+          42.31279
+        ]
+      },
+      "properties": {
+        "id": "10876",
+        "view_id": "659327073",
+        "uri": "camera/10876",
+        "name": "I-90: I-90-EB-MM116.6-Natick-Ex 117 Rt 30",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58626,
+          42.09633
+        ]
+      },
+      "properties": {
+        "id": "10877",
+        "view_id": "998103662",
+        "uri": "camera/10877",
+        "name": "I-91: I-91-NB-MM5.2-Springfield-Ex 5 E. Columbus Ave",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06193,
+          42.34255
+        ]
+      },
+      "properties": {
+        "id": "10878",
+        "view_id": "2282272566",
+        "uri": "camera/10878",
+        "name": "I-93: I-93-ME-MM16.0-Boston-NB Ex 16 to HOV-E",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07664,
+          42.38082
+        ]
+      },
+      "properties": {
+        "id": "10879",
+        "view_id": "275746746",
+        "uri": "camera/10879",
+        "name": "I-93: Ramp SN-NB-Charlestown-Storrow to 93N E",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32456,
+          42.60511
+        ]
+      },
+      "properties": {
+        "id": "10880",
+        "view_id": "1476405199",
+        "uri": "camera/10880",
+        "name": "US 3: Rt3-SB-MM82.0-Chelmsford-After Ex 81A I-495 ",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81034,
+          42.24231
+        ]
+      },
+      "properties": {
+        "id": "10881",
+        "view_id": "3442174236",
+        "uri": "camera/10881",
+        "name": "I-290: 290-MM016.3WB-Worcester-before Ex 15 College Sq.",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28349,
+          42.54301
+        ]
+      },
+      "properties": {
+        "id": "10882",
+        "view_id": "1570139869",
+        "uri": "camera/10882",
+        "name": "US 3: Rt3-NB-MM77.2-Billerica-Ex 76 Concord Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21703,
+          42.13604
+        ]
+      },
+      "properties": {
+        "id": "10883",
+        "view_id": "2249649390",
+        "uri": "camera/10883",
+        "name": "I-95: I-95-NB-MM20.0-Sharon-1.5 mi beyond Ex 19 Rt 1",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0643,
+          42.33854
+        ]
+      },
+      "properties": {
+        "id": "10884",
+        "view_id": "344602627",
+        "uri": "camera/10884",
+        "name": "I-93 HOV: Road FRSB-SB-Boston-b FRSB-051",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27688,
+          42.3388
+        ]
+      },
+      "properties": {
+        "id": "9882",
+        "view_id": "3713715420",
+        "uri": "camera/9882",
+        "name": "I-90: I-90-EB-Weston-before Exit 15",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06398,
+          42.36629
+        ]
+      },
+      "properties": {
+        "id": "9893",
+        "view_id": "3995798003",
+        "uri": "camera/9893",
+        "name": "RT-3: RampNS-SB-MM1.5-Boston-bottom 93S x18",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60921,
+          42.13417
+        ]
+      },
+      "properties": {
+        "id": "9906",
+        "view_id": "3469689842",
+        "uri": "camera/9906",
+        "name": "I-91: I-91-NB-MM8.3-Chicopee-by Ex 9 & Rt 391",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22472,
+          42.30302
+        ]
+      },
+      "properties": {
+        "id": "9924",
+        "view_id": "3183789089",
+        "uri": "camera/9924",
+        "name": "I-95: I-95-NB-MM35.0-Needham-Ex 35A Kendrick St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06367,
+          42.12949
+        ]
+      },
+      "properties": {
+        "id": "9944",
+        "view_id": "2568539878",
+        "uri": "camera/9944",
+        "name": "I-90: I-90-EB-MM78.3-Sturbridge-Ex 78 I-84 Underpass",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18476,
+          42.35642
+        ]
+      },
+      "properties": {
+        "id": "9965",
+        "view_id": "1599603274",
+        "uri": "camera/9965",
+        "name": "I-90: I-90-WB-MM127.5-Newton-past Ex 127 Newton Corner",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10308,
+          42.42777
+        ]
+      },
+      "properties": {
+        "id": "9982",
+        "view_id": "2320493800",
+        "uri": "camera/9982",
+        "name": "I-93: I-93-ME-MM23.1-Medford-Ex 24 Rt 28 Fellsway",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64565,
+          42.16302
+        ]
+      },
+      "properties": {
+        "id": "9984",
+        "view_id": "3935418145",
+        "uri": "camera/9984",
+        "name": "I-91: I-91-ME-MM11.6-W. Springfield-Ex 11 I-90 & Rt 5",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30666,
+          42.3352
+        ]
+      },
+      "properties": {
+        "id": "10003",
+        "view_id": "1064558933",
+        "uri": "camera/10003",
+        "name": "I-90: I-90-EB-MM131.2-Allston-On Ramp 0.4 mi past Ex 131",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60157,
+          41.87388
+        ]
+      },
+      "properties": {
+        "id": "10036",
+        "view_id": "2246485204",
+        "uri": "camera/10036",
+        "name": "RT-3: Rt3-SB-MM40.7-Braintree-Ex 40 Union St rotary",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06704,
+          42.37187
+        ]
+      },
+      "properties": {
+        "id": "10040",
+        "view_id": "4160357293",
+        "uri": "camera/10040",
+        "name": "I-93: I-93-SB-MM18.6-Boston-Zakim South Tower",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61998,
+          42.25447
+        ]
+      },
+      "properties": {
+        "id": "10047",
+        "view_id": "236232073",
+        "uri": "camera/10047",
+        "name": "I-91: I-91-SB-MM18.3-Holyoke-@ scenic view turnout",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05002,
+          42.80218
+        ]
+      },
+      "properties": {
+        "id": "10052",
+        "view_id": "1007864320",
+        "uri": "camera/10052",
+        "name": "I-495: I-495-NB-MM111.3-Haverhill-Ex 111 Rt 110",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.34473,
+          42.62087
+        ]
+      },
+      "properties": {
+        "id": "10071",
+        "view_id": "1153538752",
+        "uri": "camera/10071",
+        "name": "US 3: 003-MM083.7NB-Chelmsford-0.9 mi before Ex 84 Rt 4",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76499,
+          42.1072
+        ]
+      },
+      "properties": {
+        "id": "9059",
+        "view_id": "381395448",
+        "uri": "camera/9059",
+        "name": "RT-3: Rt3-SB-MM26.7-Pembroke-Ex 27 Rt 139",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37595,
+          42.62476
+        ]
+      },
+      "properties": {
+        "id": "10086",
+        "view_id": "1579319685",
+        "uri": "camera/10086",
+        "name": "US 3: Rt3-SB-MM85.4-Chelmsford-0.3 mi before Ex 84 Rt 4",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.065,
+          42.33671
+        ]
+      },
+      "properties": {
+        "id": "10103",
+        "view_id": "3115313468",
+        "uri": "camera/10103",
+        "name": "I-93: RoadFRNB-NB-MM0.4-Boston-FRNB-052",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03835,
+          42.39981
+        ]
+      },
+      "properties": {
+        "id": "10116",
+        "view_id": "4156487276",
+        "uri": "camera/10116",
+        "name": "US 1: Rt1-SB-MM50.5-Chelsea-0.2 mi after Carter St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11236,
+          42.35128
+        ]
+      },
+      "properties": {
+        "id": "10122",
+        "view_id": "187304885",
+        "uri": "camera/10122",
+        "name": "I-90: I-90-WB-MM131.5-Allston/Brighton-West of Comm. Ave",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00193,
+          42.22172
+        ]
+      },
+      "properties": {
+        "id": "10131",
+        "view_id": "772179533",
+        "uri": "camera/10131",
+        "name": "RT-3: Rt3-SB-MM41.6-Braintree-0.5 mi before Ex 40 Union",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07985,
+          41.78505
+        ]
+      },
+      "properties": {
+        "id": "10138",
+        "view_id": "339307148",
+        "uri": "camera/10138",
+        "name": "RT-24: Rt24-NB-MM11.3-Freetown-Ex 11 South Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.59065,
+          42.36263
+        ]
+      },
+      "properties": {
+        "id": "10150",
+        "view_id": "4110816132",
+        "uri": "camera/10150",
+        "name": "I-290: I-495-SB-MM64.9-Marlboro-Ex 65 I-290",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02498,
+          42.46498
+        ]
+      },
+      "properties": {
+        "id": "10157",
+        "view_id": "1564069930",
+        "uri": "camera/10157",
+        "name": "US 1: Rt1-SB-MM56.0-Saugus-past Main St",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23332,
+          42.49241
+        ]
+      },
+      "properties": {
+        "id": "10167",
+        "view_id": "2647664495",
+        "uri": "camera/10167",
+        "name": "US 3: Rt3-NB-MM72.9-Bedford-0.6 mi before Ex 73 Rt 62",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64369,
+          42.17424
+        ]
+      },
+      "properties": {
+        "id": "9153",
+        "view_id": "269845472",
+        "uri": "camera/9153",
+        "name": "I-91: I-91-SB-MM12.4-Holyoke-Ex 12 Lower Westfield Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.95501,
+          42.19449
+        ]
+      },
+      "properties": {
+        "id": "10178",
+        "view_id": "1653455286",
+        "uri": "camera/10178",
+        "name": "RT-3: Rt3-SB-MM38.3-Weymouth-Ex 38 Rt 18",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19443,
+          42.66476
+        ]
+      },
+      "properties": {
+        "id": "10189",
+        "view_id": "320599814",
+        "uri": "camera/10189",
+        "name": "I-93: I-495-NB-MM94.6-Tewksbury-Ex 94 Rt 133",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1777,
+          42.62478
+        ]
+      },
+      "properties": {
+        "id": "10194",
+        "view_id": "3931594726",
+        "uri": "camera/10194",
+        "name": "I-93: I-93-NB-MM37.7-Tewksbury-Ex 38 Dascomb Rd",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02307,
+          41.93902
+        ]
+      },
+      "properties": {
+        "id": "10202",
+        "view_id": "1047003246",
+        "uri": "camera/10202",
+        "name": "RT-24: Rt24-NB-MM22.3-Raynham-Ex 22A I-495 SB",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23935,
+          42.01703
+        ]
+      },
+      "properties": {
+        "id": "10218",
+        "view_id": "379514656",
+        "uri": "camera/10218",
+        "name": "I-495: I-495-SB-MM31.8-Mansfield-before Ex 30/31 Rt 140",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.99289,
+          42.52941
+        ]
+      },
+      "properties": {
+        "id": "10221",
+        "view_id": "688132017",
+        "uri": "camera/10221",
+        "name": "US 1: Rt1-NB-Peabody-@ Jughandle",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05916,
+          42.34637
+        ]
+      },
+      "properties": {
+        "id": "10226",
+        "view_id": "2003425159",
+        "uri": "camera/10226",
+        "name": "I-93: I-93-ME-MM16.3-Boston-past Frontage Rd merge",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06467,
+          42.20467
+        ]
+      },
+      "properties": {
+        "id": "10232",
+        "view_id": "1639613652",
+        "uri": "camera/10232",
+        "name": "RT-28: I-93-NB-MM4.2-Randolph-Ex 5 Rt 28",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36541,
+          42.62202
+        ]
+      },
+      "properties": {
+        "id": "10237",
+        "view_id": "964595809",
+        "uri": "camera/10237",
+        "name": "RT-4: Rt3-SB-MM84.8-Chelmsford-Ex 84 Rt 4",
+        "snapshot_url": null,
+        "m3u8_url": null,
+        "m3u8_stable": null
+      }
+    }
+  ]
+}
